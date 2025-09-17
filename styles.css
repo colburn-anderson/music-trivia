@@ -1,0 +1,126 @@
+/* ====== RESET / CORE ====== */
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+:root { --scale: 1; --pink:#ec4899; --teal:#14b8a6; }
+
+/* Vanta layer behind everything (JS creates #vanta-bg if missing) */
+#vanta-bg{ position:fixed; inset:0; width:100%; height:100%; z-index:-1; }
+
+/* Fallback if Vanta fails */
+body{
+  font-family: Inter, system-ui, Segoe UI, Roboto, Arial, sans-serif;
+  color:#1e2430;
+  background:
+    radial-gradient(1200px 800px at 15% 20%, rgba(255,61,165,.18), transparent 60%),
+    radial-gradient(1000px 780px at 85% 25%, rgba(0,211,255,.18), transparent 60%),
+    linear-gradient(180deg, #fdfdff 0%, #f5faff 100%);
+  overflow:hidden;
+}
+
+/* ====== STAGE & CARD (CENTERED, OPAQUE TEAL) ====== */
+.stage { position:fixed; inset:0; display:grid; place-items:center; }
+.card{
+  position:relative;
+  width:1200px; height:720px;
+  margin:0 auto;
+  transform: scale(var(--scale));
+  transform-origin: center;
+  border-radius: 24px;
+  background: #12b7ad;               /* OPAQUE teal background */
+  box-shadow: 0 24px 70px rgba(0,0,0,.25);
+  overflow:hidden;
+}
+
+/* Pages fill the card */
+.page{ position:absolute; inset:0; display:none; padding: 14px 18px 86px; }
+.page.visible{ display:block; }
+
+/* Optional top title (hidden unless you show it) */
+.title{ display:none; }
+
+/* ====== QUESTION PAGE ====== */
+.qzone{ display:grid; place-items:center; margin-top:8px; }
+.qcard{
+  background:#fff; border:2px solid rgba(20,24,32,.08);
+  border-radius:16px; padding: clamp(18px,3.5vmin,40px);
+  max-width:1000px; width:100%;
+  box-shadow:0 20px 60px rgba(23,35,57,.18);
+  animation:bob 6.6s ease-in-out infinite;
+}
+.qtext{ font-weight:900; font-size:clamp(28px,4.4vmin,56px); line-height:1.14; text-wrap:balance; }
+.hint{ margin-top:10px; color:#1e2430; opacity:.0; max-height:0; overflow:hidden; transition:opacity .25s,max-height .25s; }
+.hint.show{ opacity: .9; max-height:160px; }
+
+/* Choices 2×2 */
+.choices{ display:grid; grid-template-columns:repeat(2,1fr); gap: clamp(14px,2.2vmin,24px); margin-top:16px; }
+.choice{
+  display:grid; grid-template-columns:auto 1fr; gap:10px; align-items:center;
+  background:#fff; border:2px solid rgba(20,24,32,.08); border-radius:14px;
+  padding: clamp(12px,2.1vmin,18px) clamp(12px,2.2vmin,20px);
+  box-shadow:0 8px 24px rgba(23,35,57,.12);
+  cursor: default;
+  animation: float 7s ease-in-out infinite;
+}
+.choice:nth-child(2){ animation-duration:6.4s; }
+.choice:nth-child(3){ animation-duration:7.8s; }
+.choice:nth-child(4){ animation-duration:6.9s; }
+.chip{ display:inline-grid; place-items:center; width:28px; height:28px; background:linear-gradient(135deg,#a066ff,#ff3da5,#06b6d4); color:#fff; font-weight:900; border-radius:9px; }
+.label{ font-weight:800; letter-spacing:.02em; font-size:clamp(16px,2.1vmin,20px); }
+
+/* Reveal styling on question page */
+.page-question.reveal .choice{ opacity:.55; }
+.page-question.reveal .choice.correct{
+  opacity:1; border-color: rgba(36,227,179,.65);
+  box-shadow:0 16px 40px rgba(36,227,179,.35);
+  transform: translateY(-3px) scale(1.02);
+}
+.page-question.reveal .choice.wrong{ opacity:.42; }
+
+/* ====== ANSWER PAGE (STACKED: Answer → Image → Fact) ====== */
+.answer-grid{
+  display:grid;
+  grid-template-rows: auto minmax(0,1fr) auto;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  height:100%;
+  padding: 10px 6px 70px; /* leave space for timer */
+}
+.answerLine{
+  text-align:center;
+  color:#ff3da5;
+  font: 900 clamp(26px,4.2vmin,40px)/1.15 Inter, system-ui, sans-serif;
+  background:#fff; border:2px solid rgba(20,24,32,.08); border-radius:14px;
+  padding: 14px 16px;
+  box-shadow:0 10px 24px rgba(23,35,57,.14);
+}
+.answer-media{ display:grid; place-items:center; }
+.imgframe{
+  width: min(100%, 920px);
+  aspect-ratio: 16/9;
+  background:#f4f6ff;
+  border-radius:14px; overflow:hidden;
+  box-shadow:0 20px 60px rgba(23,35,57,.18);
+}
+.imgframe img{ width:100%; height:100%; object-fit:cover; }
+.fact{
+  text-align:center;
+  color:#1e2430; font-weight:700;
+  background:#fff; border:2px solid rgba(20,24,32,.08); border-radius:14px;
+  padding: 12px 16px;
+  box-shadow:0 10px 24px rgba(23,35,57,.12);
+}
+
+/* ====== TIMER (inside each page) ====== */
+.timer{ position:absolute; right:20px; bottom:18px; display:grid; place-items:center; }
+.ttext{ position:absolute; font:800 18px/1 Inter; }
+.t-base{ stroke:rgba(20,24,32,.12); fill:none; stroke-width:10; }
+.t-progress{ stroke:#00d3ff; fill:none; stroke-width:10; }
+
+/* Animations */
+@keyframes bob{ 0%,100%{ transform:translateY(0) } 50%{ transform:translateY(-6px) } }
+@keyframes float{ 0%,100%{ transform:translateY(0) } 50%{ transform:translateY(-8px) } }
+
+/* Responsive (dev tools/mobile) */
+@media (max-width:1100px){ .choices{ grid-template-columns:repeat(2,1fr); } }
+@media (max-width:640px){ .choices{ grid-template-columns:1fr; } }
+

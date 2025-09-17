@@ -1,0 +1,1984 @@
+{
+  "questions": [
+    {
+      "q": "Who sang “Girls Just Want to Have Fun”?",
+      "choices": [
+        "Belinda Carlisle",
+        "Madonna",
+        "Debbie Gibson",
+        "Cyndi Lauper"
+      ],
+      "correctIndex": 3,
+      "fact": "1983 pop anthem that became a feminist sing‑along."
+    },
+    {
+      "q": "Who sang “Like a Prayer”?",
+      "choices": [
+        "Cyndi Lauper",
+        "Paula Abdul",
+        "Madonna",
+        "Whitney Houston"
+      ],
+      "correctIndex": 2,
+      "fact": "1989 single blending pop with gospel influences."
+    },
+    {
+      "q": "Who sang the 1992 hit version of “I Will Always Love You”?",
+      "choices": [
+        "Celine Dion",
+        "Toni Braxton",
+        "Mariah Carey",
+        "Whitney Houston"
+      ],
+      "correctIndex": 3,
+      "fact": "Power ballad from *The Bodyguard* soundtrack."
+    },
+    {
+      "q": "Who sang “My Heart Will Go On” (1997)?",
+      "choices": [
+        "LeAnn Rimes",
+        "Shania Twain",
+        "Celine Dion",
+        "Faith Hill"
+      ],
+      "correctIndex": 2,
+      "fact": "Love theme from *Titanic*."
+    },
+    {
+      "q": "Who sang “…Baby One More Time” (1998)?",
+      "choices": [
+        "Christina Aguilera",
+        "Jessica Simpson",
+        "Mandy Moore",
+        "Britney Spears"
+      ],
+      "correctIndex": 3,
+      "fact": "Debut single that kicked off the late‑’90s teen‑pop wave."
+    },
+    {
+      "q": "Who sang “Genie in a Bottle” (1999)?",
+      "choices": [
+        "Britney Spears",
+        "Mandy Moore",
+        "Jessica Simpson",
+        "Christina Aguilera"
+      ],
+      "correctIndex": 3,
+      "fact": "Breakout track with an R&B‑pop vibe."
+    },
+    {
+      "q": "Who sang “Rolling in the Deep”?",
+      "choices": [
+        "Duffy",
+        "Amy Winehouse",
+        "Adele",
+        "Leona Lewis"
+      ],
+      "correctIndex": 2,
+      "fact": "2010 smash that swept major awards."
+    },
+    {
+      "q": "Who sang “Rehab” (2006)?",
+      "choices": [
+        "Alicia Keys",
+        "Joss Stone",
+        "Amy Winehouse",
+        "Adele"
+      ],
+      "correctIndex": 2,
+      "fact": "Retro‑soul single from *Back to Black*."
+    },
+    {
+      "q": "Who sang “Single Ladies (Put a Ring on It)”?",
+      "choices": [
+        "Beyoncé",
+        "Ciara",
+        "Rihanna",
+        "Kelly Rowland"
+      ],
+      "correctIndex": 0,
+      "fact": "2008 anthem with an iconic hand‑flip dance."
+    },
+    {
+      "q": "Who sang “Umbrella” (2007)?",
+      "choices": [
+        "Shakira",
+        "Kesha",
+        "Rihanna",
+        "Beyoncé"
+      ],
+      "correctIndex": 2,
+      "fact": "Features a verse from Jay‑Z."
+    },
+    {
+      "q": "In what year was “Like a Prayer” released?",
+      "choices": [
+        "1990",
+        "1987",
+        "1991",
+        "1989"
+      ],
+      "correctIndex": 3,
+      "fact": "From Madonna’s 1989 album of the same name."
+    },
+    {
+      "q": "In what year did “My Heart Will Go On” top charts?",
+      "choices": [
+        "1999",
+        "1998",
+        "1996",
+        "1997"
+      ],
+      "correctIndex": 3,
+      "fact": "From the 1997 film *Titanic*."
+    },
+    {
+      "q": "In what year did “…Baby One More Time” debut?",
+      "choices": [
+        "2000",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "correctIndex": 2,
+      "fact": "Britney’s debut single dropped in 1998 (album 1999)."
+    },
+    {
+      "q": "When did “Rolling in the Deep” first chart?",
+      "choices": [
+        "2011",
+        "2012",
+        "2009",
+        "2010"
+      ],
+      "correctIndex": 3,
+      "fact": "Lead single from Adele’s album *21*."
+    },
+    {
+      "q": "In what year did “Hollaback Girl” hit No.1?",
+      "choices": [
+        "2005",
+        "2004",
+        "2007",
+        "2006"
+      ],
+      "correctIndex": 0,
+      "fact": "Gwen Stefani’s cheer‑chant anthem peaked in 2005."
+    },
+    {
+      "q": "Who is the featured artist on “Umbrella” by Rihanna?",
+      "choices": [
+        "Drake",
+        "Jay‑Z",
+        "Eminem",
+        "Kanye West"
+      ],
+      "correctIndex": 1,
+      "fact": "Jay‑Z opens the track with a guest verse."
+    },
+    {
+      "q": "Who is featured on Beyoncé’s “Crazy in Love”?",
+      "choices": [
+        "Usher",
+        "Kanye West",
+        "Pharrell Williams",
+        "Jay‑Z"
+      ],
+      "correctIndex": 3,
+      "fact": "A signature 2003 collaboration for both."
+    },
+    {
+      "q": "Who appears on “California Gurls” with Katy Perry?",
+      "choices": [
+        "Ludacris",
+        "Pitbull",
+        "Snoop Dogg",
+        "Flo Rida"
+      ],
+      "correctIndex": 2,
+      "fact": "Summery 2010 hit with a candy‑coated video."
+    },
+    {
+      "q": "Who is featured on “Airplanes” by B.o.B?",
+      "choices": [
+        "Fergie",
+        "Kesha",
+        "Jessie J",
+        "Hayley Williams"
+      ],
+      "correctIndex": 3,
+      "fact": "Paramore’s lead singer delivers the hook."
+    },
+    {
+      "q": "Who appears on “Hips Don’t Lie” with Shakira?",
+      "choices": [
+        "Wyclef Jean",
+        "Pitbull",
+        "Sean Paul",
+        "will.i.am"
+      ],
+      "correctIndex": 0,
+      "fact": "2006 global smash led by Shakira and Wyclef."
+    },
+    {
+      "q": "No Doubt came out of which city/scene?",
+      "choices": [
+        "Anaheim",
+        "Los Angeles",
+        "Sacramento",
+        "San Diego"
+      ],
+      "correctIndex": 0,
+      "fact": "The ska‑punk band formed in Anaheim, California."
+    },
+    {
+      "q": "Oasis is most associated with which UK city?",
+      "choices": [
+        "Manchester",
+        "Leeds",
+        "Liverpool",
+        "London"
+      ],
+      "correctIndex": 0,
+      "fact": "Key act of the ’90s Britpop scene."
+    },
+    {
+      "q": "Nirvana emerged from which music scene?",
+      "choices": [
+        "Portland",
+        "San Francisco",
+        "Los Angeles",
+        "Seattle"
+      ],
+      "correctIndex": 3,
+      "fact": "Leaders of the early ’90s grunge movement."
+    },
+    {
+      "q": "The Killers formed in which US city?",
+      "choices": [
+        "Denver",
+        "Salt Lake City",
+        "Las Vegas",
+        "Phoenix"
+      ],
+      "correctIndex": 2,
+      "fact": "Synth‑rock band known for Vegas roots."
+    },
+    {
+      "q": "U2 is most closely tied to which city?",
+      "choices": [
+        "Edinburgh",
+        "Dublin",
+        "Belfast",
+        "London"
+      ],
+      "correctIndex": 1,
+      "fact": "Irish rock band formed in Dublin."
+    },
+    {
+      "q": "“Take My Breath Away” is tied to which film?",
+      "choices": [
+        "Footloose",
+        "Flashdance",
+        "Top Gun",
+        "Dirty Dancing"
+      ],
+      "correctIndex": 2,
+      "fact": "Berlin’s ballad won the 1987 Oscar for Best Original Song."
+    },
+    {
+      "q": "“(I’ve Had) The Time of My Life” is from which movie?",
+      "choices": [
+        "Grease",
+        "Footloose",
+        "Flashdance",
+        "Dirty Dancing"
+      ],
+      "correctIndex": 3,
+      "fact": "Duet by Bill Medley and Jennifer Warnes."
+    },
+    {
+      "q": "“Don’t You (Forget About Me)” is in which film?",
+      "choices": [
+        "Sixteen Candles",
+        "Pretty in Pink",
+        "The Breakfast Club",
+        "Ferris Bueller’s Day Off"
+      ],
+      "correctIndex": 2,
+      "fact": "Simple Minds’ 1985 classic closes the film."
+    },
+    {
+      "q": "“Iris” by Goo Goo Dolls appears in which 1998 film?",
+      "choices": [
+        "Meet Joe Black",
+        "You’ve Got Mail",
+        "City of Angels",
+        "A Walk to Remember"
+      ],
+      "correctIndex": 2,
+      "fact": "Romantic drama starring Nicolas Cage and Meg Ryan."
+    },
+    {
+      "q": "“I Don’t Want to Miss a Thing” is from which blockbuster?",
+      "choices": [
+        "Armageddon",
+        "Pearl Harbor",
+        "Top Gun",
+        "The Rock"
+      ],
+      "correctIndex": 0,
+      "fact": "Aerosmith power ballad (1998)."
+    },
+    {
+      "q": "Which stage name matches the real name Stefani Germanotta?",
+      "choices": [
+        "Kesha",
+        "Lady Gaga",
+        "Avril Lavigne",
+        "Katy Perry"
+      ],
+      "correctIndex": 1,
+      "fact": "Lady Gaga was born Stefani Joanne Angelina Germanotta."
+    },
+    {
+      "q": "Which star was born Robyn Fenty?",
+      "choices": [
+        "Rihanna",
+        "Alicia Keys",
+        "Ciara",
+        "Nicki Minaj"
+      ],
+      "correctIndex": 0,
+      "fact": "Rihanna’s full name is Robyn Rihanna Fenty."
+    },
+    {
+      "q": "Which artist’s birth name is Marshall Mathers?",
+      "choices": [
+        "Eminem",
+        "Macklemore",
+        "G‑Eazy",
+        "NF"
+      ],
+      "correctIndex": 0,
+      "fact": "Detroit rapper also known as Slim Shady."
+    },
+    {
+      "q": "Which singer was born Katheryn Hudson?",
+      "choices": [
+        "Taylor Swift",
+        "Kylie Minogue",
+        "Katy Perry",
+        "Dua Lipa"
+      ],
+      "correctIndex": 2,
+      "fact": "She adopted the stage surname Perry."
+    },
+    {
+      "q": "Which artist was born Peter Gene Hernandez?",
+      "choices": [
+        "Adam Levine",
+        "Jason Derulo",
+        "Bruno Mars",
+        "Ne‑Yo"
+      ],
+      "correctIndex": 2,
+      "fact": "Hawaiian‑born singer took the stage name Bruno Mars."
+    },
+    {
+      "q": "Which decade best matches “Sweet Dreams (Are Made of This)” by Eurythmics?",
+      "choices": [
+        "1970s",
+        "1990s",
+        "2000s",
+        "1980s"
+      ],
+      "correctIndex": 3,
+      "fact": "Released in 1983."
+    },
+    {
+      "q": "Which decade best matches “Wannabe” by Spice Girls?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "1996 debut that sparked Spice Mania."
+    },
+    {
+      "q": "Which decade best matches “Smells Like Teen Spirit” by Nirvana?",
+      "choices": [
+        "1990s",
+        "2000s",
+        "1980s",
+        "2010s"
+      ],
+      "correctIndex": 0,
+      "fact": "1991 grunge breakthrough."
+    },
+    {
+      "q": "Which decade best matches “Complicated” by Avril Lavigne?",
+      "choices": [
+        "1990s",
+        "2000s",
+        "1980s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "2002 pop‑punk breakout."
+    },
+    {
+      "q": "Which decade best matches “Rolling in the Deep” by Adele?",
+      "choices": [
+        "1980s",
+        "2000s",
+        "1990s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "2010 single from *21*."
+    },
+    {
+      "q": "Which of these is a song by Tina Turner?",
+      "choices": [
+        "Love Is a Battlefield",
+        "Like a Virgin",
+        "What’s Love Got to Do with It",
+        "We Belong"
+      ],
+      "correctIndex": 2,
+      "fact": "Signature 1984 hit for Turner."
+    },
+    {
+      "q": "Which of these is a song by Shania Twain?",
+      "choices": [
+        "Stronger",
+        "Breathe",
+        "Man! I Feel Like a Woman!",
+        "Fancy"
+      ],
+      "correctIndex": 2,
+      "fact": "1999 country‑pop favorite."
+    },
+    {
+      "q": "Which of these is a song by The Cranberries?",
+      "choices": [
+        "Crush",
+        "Only Happy When It Rains",
+        "Just a Girl",
+        "Linger"
+      ],
+      "correctIndex": 3,
+      "fact": "1993 breakout ballad."
+    },
+    {
+      "q": "Which of these is a song by No Doubt?",
+      "choices": [
+        "Girls & Boys",
+        "Don’t Speak",
+        "Celebrity Skin",
+        "Zombie"
+      ],
+      "correctIndex": 1,
+      "fact": "1990s chart‑topping ballad."
+    },
+    {
+      "q": "Which of these is a song by Britney Spears?",
+      "choices": [
+        "Bad Romance",
+        "Toxic",
+        "Can’t Get You Out of My Head",
+        "Poker Face"
+      ],
+      "correctIndex": 1,
+      "fact": "2004 electro‑pop single."
+    },
+    {
+      "q": "Who is the most recognized lead vocalist of No Doubt?",
+      "choices": [
+        "Dolores O’Riordan",
+        "Gwen Stefani",
+        "Natalie Imbruglia",
+        "Shirley Manson"
+      ],
+      "correctIndex": 1,
+      "fact": "Gwen fronted the band through its ’90s peak."
+    },
+    {
+      "q": "Who fronts the band Garbage?",
+      "choices": [
+        "Sinead O’Connor",
+        "Gwen Stefani",
+        "Alanis Morissette",
+        "Shirley Manson"
+      ],
+      "correctIndex": 3,
+      "fact": "Scottish singer leading the alt‑rock group."
+    },
+    {
+      "q": "Who sang lead for Eurythmics?",
+      "choices": [
+        "Debbie Harry",
+        "Belinda Carlisle",
+        "Annie Lennox",
+        "Sade"
+      ],
+      "correctIndex": 2,
+      "fact": "Known for powerful contralto vocals."
+    },
+    {
+      "q": "Who is the primary female vocalist of Fleetwood Mac’s classic lineup?",
+      "choices": [
+        "Pat Benatar",
+        "Stevie Nicks",
+        "Christine McVie",
+        "Debbie Harry"
+      ],
+      "correctIndex": 1,
+      "fact": "Shared vocals with Christine McVie; Nicks became an icon."
+    },
+    {
+      "q": "Who is the lead vocalist of Roxette?",
+      "choices": [
+        "Nena",
+        "Samantha Fox",
+        "Kim Wilde",
+        "Marie Fredriksson"
+      ],
+      "correctIndex": 3,
+      "fact": "Swedish duo with Marie on lead for many hits."
+    },
+    {
+      "q": "Which album won the Grammy for Album of the Year in 2012?",
+      "choices": [
+        "Rihanna – Loud",
+        "Lady Gaga – Born This Way",
+        "Bruno Mars – Doo‑Wops & Hooligans",
+        "Adele – 21"
+      ],
+      "correctIndex": 3,
+      "fact": "Adele’s *21* swept major categories."
+    },
+    {
+      "q": "Which song won the Grammy for Record of the Year in 2016?",
+      "choices": [
+        "Thinking Out Loud – Ed Sheeran",
+        "Blank Space – Taylor Swift",
+        "Hello – Adele",
+        "Uptown Funk – Mark Ronson ft. Bruno Mars"
+      ],
+      "correctIndex": 3,
+      "fact": "Released 2014; won at the 2016 Grammys."
+    },
+    {
+      "q": "Which artist won Grammy Best New Artist in 2008?",
+      "choices": [
+        "Amy Winehouse",
+        "Leona Lewis",
+        "Katy Perry",
+        "Taylor Swift"
+      ],
+      "correctIndex": 0,
+      "fact": "Winehouse’s *Back to Black* era."
+    },
+    {
+      "q": "Which song won the Academy Award for Best Original Song in 1987?",
+      "choices": [
+        "Take My Breath Away",
+        "Flashdance… What a Feeling",
+        "I Just Called to Say I Love You",
+        "Footloose"
+      ],
+      "correctIndex": 0,
+      "fact": "Berlin’s ballad from *Top Gun* won the Oscar."
+    },
+    {
+      "q": "Which song won the Oscar for Best Original Song in 1998?",
+      "choices": [
+        "Lose Yourself",
+        "My Heart Will Go On",
+        "A View to a Kill",
+        "I Don’t Want to Miss a Thing"
+      ],
+      "correctIndex": 1,
+      "fact": "Celine Dion’s *Titanic* theme."
+    },
+    {
+      "q": "Which single came first for Britney Spears?",
+      "choices": [
+        "…Baby One More Time",
+        "Gimme More",
+        "Oops!… I Did It Again",
+        "Toxic"
+      ],
+      "correctIndex": 0,
+      "fact": "Debut single in 1998, album in 1999."
+    },
+    {
+      "q": "Which came earlier in Madonna’s career?",
+      "choices": [
+        "Like a Virgin",
+        "Ray of Light",
+        "Hung Up",
+        "Music"
+      ],
+      "correctIndex": 0,
+      "fact": "“Like a Virgin” (1984) predates the others."
+    },
+    {
+      "q": "Which album arrived first for Alanis Morissette?",
+      "choices": [
+        "Supposed Former Infatuation Junkie",
+        "Under Rug Swept",
+        "So-Called Chaos",
+        "Jagged Little Pill"
+      ],
+      "correctIndex": 3,
+      "fact": "1995 breakthrough followed by a 1998 sequel."
+    },
+    {
+      "q": "Which Coldplay hit charted earlier?",
+      "choices": [
+        "Clocks",
+        "Speed of Sound",
+        "Viva la Vida",
+        "Yellow"
+      ],
+      "correctIndex": 3,
+      "fact": "“Yellow” broke them in 2000."
+    },
+    {
+      "q": "Which Shania Twain single came first?",
+      "choices": [
+        "Party for Two",
+        "Man! I Feel Like a Woman!",
+        "Ka‑Ching!",
+        "Up!"
+      ],
+      "correctIndex": 1,
+      "fact": "From 1997/1999 single sequence off *Come On Over*."
+    },
+    {
+      "q": "Adele is originally from which country?",
+      "choices": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "correctIndex": 3,
+      "fact": "Born in London."
+    },
+    {
+      "q": "Shakira is originally from which country?",
+      "choices": [
+        "Brazil",
+        "Spain",
+        "Colombia",
+        "Mexico"
+      ],
+      "correctIndex": 2,
+      "fact": "Born in Barranquilla, Colombia."
+    },
+    {
+      "q": "Celine Dion hails from which country?",
+      "choices": [
+        "United States",
+        "Switzerland",
+        "Canada",
+        "France"
+      ],
+      "correctIndex": 2,
+      "fact": "From Charlemagne, Quebec."
+    },
+    {
+      "q": "Daft Punk formed in which country?",
+      "choices": [
+        "France",
+        "United Kingdom",
+        "Germany",
+        "United States"
+      ],
+      "correctIndex": 0,
+      "fact": "French electronic duo formed in Paris."
+    },
+    {
+      "q": "ABBA originated in which country?",
+      "choices": [
+        "Germany",
+        "Sweden",
+        "Denmark",
+        "Norway"
+      ],
+      "correctIndex": 1,
+      "fact": "Stockholm pop group of the ’70s/’80s."
+    },
+    {
+      "q": "Which act is most associated with the grunge movement?",
+      "choices": [
+        "Depeche Mode",
+        "U2",
+        "Nirvana",
+        "No Doubt"
+      ],
+      "correctIndex": 2,
+      "fact": "Part of the early ’90s Seattle scene."
+    },
+    {
+      "q": "Which act is closely tied to Britpop?",
+      "choices": [
+        "ABBA",
+        "A‑ha",
+        "Oasis",
+        "The Killers"
+      ],
+      "correctIndex": 2,
+      "fact": "Manchester band at the heart of Britpop."
+    },
+    {
+      "q": "Which act is most associated with new wave/synth‑pop?",
+      "choices": [
+        "Soundgarden",
+        "Pearl Jam",
+        "Metallica",
+        "Eurythmics"
+      ],
+      "correctIndex": 3,
+      "fact": "1980s synth‑pop duo."
+    },
+    {
+      "q": "Which act is tied to the ’80s Miami sound and freestyle pop?",
+      "choices": [
+        "Gloria Estefan & Miami Sound Machine",
+        "No Doubt",
+        "Spice Girls",
+        "Savage Garden"
+      ],
+      "correctIndex": 0,
+      "fact": "Brought Latin pop and freestyle to mainstream."
+    },
+    {
+      "q": "Which act is associated with the ’90s trip‑hop scene?",
+      "choices": [
+        "Green Day",
+        "Massive Attack",
+        "Foo Fighters",
+        "The Strokes"
+      ],
+      "correctIndex": 1,
+      "fact": "Bristol pioneers of trip‑hop."
+    },
+    {
+      "q": "Which video famously features Beyoncé in a leotard with two dancers in a single‑take style look?",
+      "choices": [
+        "Irreplaceable",
+        "Halo",
+        "Crazy in Love",
+        "Single Ladies (Put a Ring on It)"
+      ],
+      "correctIndex": 3,
+      "fact": "A 2008 black‑and‑white minimal set piece."
+    },
+    {
+      "q": "Which video shows Miley Cyrus on a demolition wrecking ball?",
+      "choices": [
+        "We Can't Stop",
+        "The Climb",
+        "Wrecking Ball",
+        "Party in the U.S.A."
+      ],
+      "correctIndex": 2,
+      "fact": "The 2013 video became instantly iconic."
+    },
+    {
+      "q": "Which Madonna video sparked controversy with stigmata and burning crosses imagery?",
+      "choices": [
+        "Express Yourself",
+        "Frozen",
+        "Like a Prayer",
+        "Vogue"
+      ],
+      "correctIndex": 2,
+      "fact": "1989 video stirred debate and headlines."
+    },
+    {
+      "q": "Which TLC video used water imagery and cautionary stories?",
+      "choices": [
+        "Creep",
+        "Waterfalls",
+        "Unpretty",
+        "No Scrubs"
+      ],
+      "correctIndex": 1,
+      "fact": "1995 visual matched the song’s message."
+    },
+    {
+      "q": "Which a‑ha video used rotoscope animation to pull a girl into a comic book?",
+      "choices": [
+        "Hunting High and Low",
+        "Take On Me",
+        "The Sun Always Shines on T.V.",
+        "Living Daylights"
+      ],
+      "correctIndex": 1,
+      "fact": "1985 MTV staple."
+    },
+    {
+      "q": "Who produced the signature Motown sound and later worked with Diana Ross on “Upside Down” (1980)?",
+      "choices": [
+        "Jimmy Jam & Terry Lewis",
+        "Max Martin",
+        "Quincy Jones",
+        "Nile Rodgers & Bernard Edwards"
+      ],
+      "correctIndex": 3,
+      "fact": "Chic’s Rodgers/Edwards produced “Upside Down.”"
+    },
+    {
+      "q": "Which Swedish songwriter/producer is behind hits like “…Baby One More Time” and “I Kissed a Girl”?",
+      "choices": [
+        "Shellback",
+        "RedOne",
+        "Benny Blanco",
+        "Max Martin"
+      ],
+      "correctIndex": 3,
+      "fact": "Max Martin shaped late‑’90s/2000s pop."
+    },
+    {
+      "q": "Which producer duo crafted Janet Jackson’s control‑era sound?",
+      "choices": [
+        "Rodney Jerkins",
+        "The Neptunes",
+        "Timbaland & Danja",
+        "Jimmy Jam & Terry Lewis"
+      ],
+      "correctIndex": 3,
+      "fact": "They produced *Control* and *Rhythm Nation 1814*."
+    },
+    {
+      "q": "Who produced much of Madonna’s *Ray of Light* (1998)?",
+      "choices": [
+        "William Orbit",
+        "Patrick Leonard",
+        "Stuart Price",
+        "Nile Rodgers"
+      ],
+      "correctIndex": 0,
+      "fact": "Ambient/electronic textures on *Ray of Light*."
+    },
+    {
+      "q": "Which producer is closely associated with early Lady Gaga hits like “Just Dance” and “Poker Face”?",
+      "choices": [
+        "Calvin Harris",
+        "RedOne",
+        "Diplo",
+        "Mark Ronson"
+      ],
+      "correctIndex": 1,
+      "fact": "RedOne co‑crafted Gaga’s early sound."
+    },
+    {
+      "q": "Which of these reached #1 on the Billboard Hot 100?",
+      "choices": [
+        "Vogue – Madonna",
+        "I Will Always Love You – Whitney Houston",
+        "Roar – Katy Perry",
+        "Toxic – Britney Spears"
+      ],
+      "correctIndex": 1,
+      "fact": "Houston’s version sat at #1 for 14 weeks."
+    },
+    {
+      "q": "Which of these reached #1 in the US?",
+      "choices": [
+        "Rolling in the Deep – Adele",
+        "Bleeding Love – Leona Lewis",
+        "Complicated – Avril Lavigne",
+        "Just a Girl – No Doubt"
+      ],
+      "correctIndex": 0,
+      "fact": "Adele’s 2010–11 global smash hit #1."
+    },
+    {
+      "q": "Which of these peaked at #1 on the Hot 100?",
+      "choices": [
+        "We Found Love – Rihanna ft. Calvin Harris",
+        "Hips Don’t Lie – Shakira",
+        "Single Ladies – Beyoncé",
+        "Since U Been Gone – Kelly Clarkson"
+      ],
+      "correctIndex": 0,
+      "fact": "“We Found Love” led for 10 weeks."
+    },
+    {
+      "q": "Which of these topped the Hot 100?",
+      "choices": [
+        "Speed of Sound – Coldplay",
+        "Yellow – Coldplay",
+        "Viva la Vida – Coldplay",
+        "Clocks – Coldplay"
+      ],
+      "correctIndex": 2,
+      "fact": "Coldplay’s only US #1 single."
+    },
+    {
+      "q": "Which of these hit #1?",
+      "choices": [
+        "Obsessed – Mariah Carey",
+        "Vision of Love – Mariah Carey",
+        "All I Want for Christmas Is You – Mariah Carey",
+        "Hero – Mariah Carey"
+      ],
+      "correctIndex": 2,
+      "fact": "Became a perennial #1 in the streaming era."
+    },
+    {
+      "q": "Which was Britney Spears’ debut single?",
+      "choices": [
+        "Toxic",
+        "Oops!… I Did It Again",
+        "…Baby One More Time",
+        "Sometimes"
+      ],
+      "correctIndex": 2,
+      "fact": "Debut single released in 1998 (album 1999)."
+    },
+    {
+      "q": "Which single followed “Since U Been Gone” for Kelly Clarkson?",
+      "choices": [
+        "Breakaway",
+        "Behind These Hazel Eyes",
+        "Because of You",
+        "My Life Would Suck Without You"
+      ],
+      "correctIndex": 1,
+      "fact": "Another hit from *Breakaway* (2004–05)."
+    },
+    {
+      "q": "Which was Adele’s debut single?",
+      "choices": [
+        "Chasing Pavements",
+        "Someone Like You",
+        "Rolling in the Deep",
+        "Hometown Glory"
+      ],
+      "correctIndex": 3,
+      "fact": "Released first in 2007 in the UK."
+    },
+    {
+      "q": "Which was Lady Gaga’s debut single?",
+      "choices": [
+        "Bad Romance",
+        "Paparazzi",
+        "Just Dance",
+        "Poker Face"
+      ],
+      "correctIndex": 2,
+      "fact": "2008 breakout club track."
+    },
+    {
+      "q": "Which was Mariah Carey’s debut single?",
+      "choices": [
+        "Emotions",
+        "Vision of Love",
+        "Dreamlover",
+        "Hero"
+      ],
+      "correctIndex": 1,
+      "fact": "1990 debut established her vocal signature."
+    },
+    {
+      "q": "Which act is NOT from the UK?",
+      "choices": [
+        "Dido",
+        "The Killers",
+        "Coldplay",
+        "Adele"
+      ],
+      "correctIndex": 1,
+      "fact": "The Killers are from Las Vegas, USA."
+    },
+    {
+      "q": "Which artist is NOT Canadian?",
+      "choices": [
+        "Shania Twain",
+        "Alanis Morissette",
+        "Celine Dion",
+        "P!nk"
+      ],
+      "correctIndex": 3,
+      "fact": "P!nk is American (Pennsylvania)."
+    },
+    {
+      "q": "Which act is NOT from Sweden?",
+      "choices": [
+        "Roxette",
+        "ABBA",
+        "A‑ha",
+        "Ace of Base"
+      ],
+      "correctIndex": 2,
+      "fact": "A‑ha are Norwegian."
+    },
+    {
+      "q": "Which drum machine became iconic in ’80s pop and hip‑hop?",
+      "choices": [
+        "Roland TR‑808",
+        "TR‑909",
+        "Alesis HR‑16",
+        "LinnDrum"
+      ],
+      "correctIndex": 0,
+      "fact": "The 808’s booming kick defined a generation."
+    },
+    {
+      "q": "Which synth is tied to the ’80s lush pop sound?",
+      "choices": [
+        "Yamaha DX7",
+        "ARP 2600",
+        "Moog Minimoog",
+        "Korg M1"
+      ],
+      "correctIndex": 0,
+      "fact": "FM‑synthesis presets were everywhere in the mid‑’80s."
+    },
+    {
+      "q": "Which sampler/synth helped shape ’80s/’90s pop production?",
+      "choices": [
+        "E‑mu SP‑1200",
+        "Fairlight CMI",
+        "Akai MPC60",
+        "Korg Wavestation"
+      ],
+      "correctIndex": 1,
+      "fact": "Used by artists like Peter Gabriel and Kate Bush."
+    },
+    {
+      "q": "Which bass/beat box is central to Chicago house origins?",
+      "choices": [
+        "Oberheim DMX",
+        "Linn LM‑1",
+        "TR‑808",
+        "Roland TR‑909"
+      ],
+      "correctIndex": 3,
+      "fact": "909 kicks and hats powered early house records."
+    },
+    {
+      "q": "Which workstation keyboard became a ’90s pop staple?",
+      "choices": [
+        "Yamaha DX7",
+        "Roland D‑50",
+        "Roland Juno‑106",
+        "Korg M1"
+      ],
+      "correctIndex": 3,
+      "fact": "Known for the famous M1 “piano” and “organ” presets."
+    },
+    {
+      "q": "Which Madonna album includes “Like a Prayer”?",
+      "choices": [
+        "Bedtime Stories",
+        "True Blue",
+        "Like a Prayer",
+        "Ray of Light"
+      ],
+      "correctIndex": 2,
+      "fact": "Title track and single from the 1989 album."
+    },
+    {
+      "q": "Which Alanis Morissette album includes “You Oughta Know”?",
+      "choices": [
+        "Under Rug Swept",
+        "Supposed Former Infatuation Junkie",
+        "So‑Called Chaos",
+        "Jagged Little Pill"
+      ],
+      "correctIndex": 3,
+      "fact": "1995 blockbuster album."
+    },
+    {
+      "q": "Which Amy Winehouse album includes “Rehab”?",
+      "choices": [
+        "21",
+        "Frank",
+        "Back to Black",
+        "Lioness: Hidden Treasures"
+      ],
+      "correctIndex": 2,
+      "fact": "Her 2006 classic soul LP."
+    },
+    {
+      "q": "Which Adele album includes “Rolling in the Deep”?",
+      "choices": [
+        "19",
+        "21",
+        "30",
+        "25"
+      ],
+      "correctIndex": 1,
+      "fact": "Released 2011 in many territories."
+    },
+    {
+      "q": "Which Coldplay album includes “Viva la Vida”?",
+      "choices": [
+        "X&Y",
+        "Viva la Vida or Death and All His Friends",
+        "Parachutes",
+        "A Rush of Blood to the Head"
+      ],
+      "correctIndex": 1,
+      "fact": "Coldplay’s 2008 LP."
+    },
+    {
+      "q": "Which song features Christina Aguilera on a power ballad duet?",
+      "choices": [
+        "No Air – Jordin Sparks & Chris Brown",
+        "Say Something – A Great Big World & Christina Aguilera",
+        "Broken Strings – James Morrison & Nelly Furtado",
+        "Empire State of Mind – Jay‑Z & Alicia Keys"
+      ],
+      "correctIndex": 1,
+      "fact": "Emotional 2013–14 duet."
+    },
+    {
+      "q": "Which collaboration pairs Beyoncé with Shakira?",
+      "choices": [
+        "Hate That I Love You – Rihanna & Ne‑Yo",
+        "Telephone – Lady Gaga & Beyoncé",
+        "Love the Way You Lie – Eminem & Rihanna",
+        "Beautiful Liar – Beyoncé & Shakira"
+      ],
+      "correctIndex": 3,
+      "fact": "2007 bilingual pop duet."
+    },
+    {
+      "q": "Who staged a major comeback with the album *Ray of Light* (1998)?",
+      "choices": [
+        "Janet Jackson",
+        "Madonna",
+        "Cher",
+        "Kylie Minogue"
+      ],
+      "correctIndex": 1,
+      "fact": "Electronica‑influenced reinvention."
+    },
+    {
+      "q": "Which artist’s 2006 album *Back to Black* became a critical triumph?",
+      "choices": [
+        "Joss Stone",
+        "Alicia Keys",
+        "Amy Winehouse",
+        "Duffy"
+      ],
+      "correctIndex": 2,
+      "fact": "Neo‑soul classic."
+    },
+    {
+      "q": "Which video dominated the 2009 MTV VMAs and fueled a pop‑culture moment?",
+      "choices": [
+        "Hot n Cold",
+        "Single Ladies (Put a Ring on It)",
+        "Poker Face",
+        "Disturbia"
+      ],
+      "correctIndex": 1,
+      "fact": "Beyoncé’s choreography became a phenomenon."
+    },
+    {
+      "q": "Which 2013 video generated massive online buzz with its surreal choreography?",
+      "choices": [
+        "Wrecking Ball – Miley Cyrus",
+        "Royals – Lorde",
+        "Applause – Lady Gaga",
+        "Chandelier – Sia"
+      ],
+      "correctIndex": 3,
+      "fact": "Maddie Ziegler starred in the video."
+    },
+    {
+      "q": "Which artist is known for whistle‑register notes on early ’90s hits?",
+      "choices": [
+        "Celine Dion",
+        "Toni Braxton",
+        "Mariah Carey",
+        "Whitney Houston"
+      ],
+      "correctIndex": 2,
+      "fact": "Introduced mainstream listeners to whistle notes on pop radio."
+    },
+    {
+      "q": "Which singer is famous for a raspy rock vocal and high‑energy stage shows?",
+      "choices": [
+        "Stevie Nicks",
+        "Pat Benatar",
+        "Tina Turner",
+        "Joan Jett"
+      ],
+      "correctIndex": 2,
+      "fact": "’80s icon with electrifying performances."
+    },
+    {
+      "q": "Which band delivered the ’80s power ballad “Every Rose Has Its Thorn”?",
+      "choices": [
+        "Poison",
+        "Whitesnake",
+        "Def Leppard",
+        "Bon Jovi"
+      ],
+      "correctIndex": 0,
+      "fact": "1988 acoustic ballad."
+    },
+    {
+      "q": "Which band is behind “Total Eclipse of the Heart” (singer)?",
+      "choices": [
+        "Heart",
+        "Bonnie Tyler",
+        "Pat Benatar",
+        "Belinda Carlisle"
+      ],
+      "correctIndex": 1,
+      "fact": "1983 Jim Steinman‑produced epic."
+    },
+    {
+      "q": "Which group led the late ’90s British girl‑group invasion?",
+      "choices": [
+        "All Saints",
+        "B*Witched",
+        "Sugababes",
+        "Spice Girls"
+      ],
+      "correctIndex": 3,
+      "fact": "Global pop phenomenon starting in 1996."
+    },
+    {
+      "q": "Which R&B trio scored with “No Scrubs” (1999)?",
+      "choices": [
+        "En Vogue",
+        "SWV",
+        "Destiny’s Child",
+        "TLC"
+      ],
+      "correctIndex": 3,
+      "fact": "Empowerment anthem of the late ’90s."
+    },
+    {
+      "q": "Which singer brought country‑pop to the mainstream with *Come On Over* (1997)?",
+      "choices": [
+        "Faith Hill",
+        "LeAnn Rimes",
+        "Shania Twain",
+        "Martina McBride"
+      ],
+      "correctIndex": 2,
+      "fact": "One of the best‑selling albums by a female artist."
+    },
+    {
+      "q": "Which 2006 hit mixed country storytelling with pop hooks?",
+      "choices": [
+        "Teardrops on My Guitar – Taylor Swift",
+        "Before He Cheats – Carrie Underwood",
+        "Redneck Woman – Gretchen Wilson",
+        "Picture – Kid Rock & Sheryl Crow"
+      ],
+      "correctIndex": 1,
+      "fact": "Vengeful anthem that crossed genres."
+    },
+    {
+      "q": "Which song is a classic ’80s karaoke staple?",
+      "choices": [
+        "Pour Some Sugar on Me – Def Leppard",
+        "Sweet Child o’ Mine – Guns N’ Roses",
+        "Living on a Prayer – Bon Jovi",
+        "Africa – Toto"
+      ],
+      "correctIndex": 2,
+      "fact": "Talkbox bassline and key‑change finale."
+    },
+    {
+      "q": "Which synth‑pop hit is known for its rain‑drenched, romantic vibe?",
+      "choices": [
+        "Drive – The Cars",
+        "True – Spandau Ballet",
+        "Careless Whisper – George Michael",
+        "Time After Time – Cyndi Lauper"
+      ],
+      "correctIndex": 3,
+      "fact": "1984 tender ballad."
+    },
+    {
+      "q": "Which band’s 1994 *MTV Unplugged* set became legendary?",
+      "choices": [
+        "Stone Temple Pilots",
+        "Alice in Chains",
+        "Nirvana",
+        "Pearl Jam"
+      ],
+      "correctIndex": 2,
+      "fact": "Haunting cover of “The Man Who Sold the World.”"
+    },
+    {
+      "q": "Which singer’s *Unplugged* version of “No Scrubs” is remembered for harmonies?",
+      "choices": [
+        "En Vogue",
+        "TLC",
+        "SWV",
+        "Destiny’s Child"
+      ],
+      "correctIndex": 1,
+      "fact": "Showcased the trio’s vocals."
+    },
+    {
+      "q": "Which artist reinvented as a dance‑pop diva with *Fever* (2001)?",
+      "choices": [
+        "Kylie Minogue",
+        "Sophie Ellis‑Bextor",
+        "Madonna",
+        "Cher"
+      ],
+      "correctIndex": 0,
+      "fact": "Led by the hit “Can’t Get You Out of My Head.”"
+    },
+    {
+      "q": "Which producer‑fronted project scored with “Get Lucky” (2013)?",
+      "choices": [
+        "The Chemical Brothers",
+        "Daft Punk",
+        "Justice",
+        "Disclosure"
+      ],
+      "correctIndex": 1,
+      "fact": "Teamed with Pharrell Williams and Nile Rodgers."
+    },
+    {
+      "q": "This ’90s ballad “I Will Always Love You” was performed by whom (hit version)?",
+      "choices": [
+        "Celine Dion",
+        "Toni Braxton",
+        "Whitney Houston",
+        "Mariah Carey"
+      ],
+      "correctIndex": 2,
+      "fact": "1992 cover became a global No.1."
+    },
+    {
+      "q": "The dance‑pop single “Believe” is by which artist?",
+      "choices": [
+        "Kylie Minogue",
+        "Gloria Estefan",
+        "Cher",
+        "Paula Abdul"
+      ],
+      "correctIndex": 2,
+      "fact": "1998 Auto‑Tune‑pioneering smash."
+    },
+    {
+      "q": "The club classic “Vogue” belongs to which pop icon?",
+      "choices": [
+        "Janet Jackson",
+        "Paula Abdul",
+        "Madonna",
+        "Kylie Minogue"
+      ],
+      "correctIndex": 2,
+      "fact": "1990 single that popularized vogueing imagery."
+    },
+    {
+      "q": "The hit “Toxic” is by which star?",
+      "choices": [
+        "P!nk",
+        "Britney Spears",
+        "Christina Aguilera",
+        "Katy Perry"
+      ],
+      "correctIndex": 1,
+      "fact": "2004 Grammy‑winning single."
+    },
+    {
+      "q": "The anthem “We Found Love” is by which artist?",
+      "choices": [
+        "Ariana Grande",
+        "Shakira",
+        "Rihanna",
+        "Beyoncé"
+      ],
+      "correctIndex": 2,
+      "fact": "2011 dance‑pop collaboration with Calvin Harris."
+    },
+    {
+      "q": "What year saw the release of “Viva la Vida” by Coldplay?",
+      "choices": [
+        "2008",
+        "2007",
+        "2006",
+        "2009"
+      ],
+      "correctIndex": 0,
+      "fact": "From their 2008 album produced with Brian Eno."
+    },
+    {
+      "q": "“Chandelier” first hit radio in which year?",
+      "choices": [
+        "2012",
+        "2015",
+        "2013",
+        "2014"
+      ],
+      "correctIndex": 3,
+      "fact": "Lead single from Sia’s *1000 Forms of Fear*."
+    },
+    {
+      "q": "When did “Royals” become a breakout single?",
+      "choices": [
+        "2013",
+        "2012",
+        "2014",
+        "2015"
+      ],
+      "correctIndex": 0,
+      "fact": "Lorde was 16 when it topped charts."
+    },
+    {
+      "q": "In which year did “No Scrubs” dominate R&B airplay?",
+      "choices": [
+        "1998",
+        "1997",
+        "2000",
+        "1999"
+      ],
+      "correctIndex": 3,
+      "fact": "TLC’s late‑’90s classic."
+    },
+    {
+      "q": "What year did “Hips Don’t Lie” become a global No.1?",
+      "choices": [
+        "2006",
+        "2007",
+        "2005",
+        "2004"
+      ],
+      "correctIndex": 0,
+      "fact": "Shakira and Wyclef Jean lit up charts."
+    },
+    {
+      "q": "Manchester’s Britpop boom is most tied to which band?",
+      "choices": [
+        "The Verve",
+        "Blur",
+        "Pulp",
+        "Oasis"
+      ],
+      "correctIndex": 3,
+      "fact": "Oasis vs. Blur defined UK charts in the ’90s."
+    },
+    {
+      "q": "Which band is a hallmark of the Seattle grunge scene?",
+      "choices": [
+        "Pearl Jam",
+        "Radiohead",
+        "Muse",
+        "The Killers"
+      ],
+      "correctIndex": 0,
+      "fact": "1991–94 run with *Ten*, *Vs.*, *Vitalogy*."
+    },
+    {
+      "q": "Which act is emblematic of ’90s trip‑hop from Bristol?",
+      "choices": [
+        "Underworld",
+        "Portishead",
+        "Massive Attack",
+        "The Prodigy"
+      ],
+      "correctIndex": 1,
+      "fact": "Alongside Massive Attack; moody downtempo sound."
+    },
+    {
+      "q": "Which group is identified with the ’80s New Jersey rock scene?",
+      "choices": [
+        "Aerosmith",
+        "Bon Jovi",
+        "Journey",
+        "Def Leppard"
+      ],
+      "correctIndex": 1,
+      "fact": "Arena‑rock giants with sing‑along choruses."
+    },
+    {
+      "q": "Which group came up from Anaheim’s ska‑punk circuit?",
+      "choices": [
+        "Sugar Ray",
+        "Sublime",
+        "No Doubt",
+        "311"
+      ],
+      "correctIndex": 2,
+      "fact": "Early Orange County shows built their following."
+    },
+    {
+      "q": "Which film used “Don’t You (Forget About Me)” over its iconic final freeze‑frame?",
+      "choices": [
+        "Pretty in Pink",
+        "Ferris Bueller’s Day Off",
+        "St. Elmo’s Fire",
+        "The Breakfast Club"
+      ],
+      "correctIndex": 3,
+      "fact": "Simple Minds’ 1985 single."
+    },
+    {
+      "q": "“My Heart Will Go On” is forever linked to which blockbuster?",
+      "choices": [
+        "Romeo + Juliet",
+        "Titanic",
+        "The Bodyguard",
+        "Pearl Harbor"
+      ],
+      "correctIndex": 1,
+      "fact": "1997 James Cameron epic."
+    },
+    {
+      "q": "“Iris” by Goo Goo Dolls was written for which Nicolas Cage movie?",
+      "choices": [
+        "City of Angels",
+        "Face/Off",
+        "Con Air",
+        "The Rock"
+      ],
+      "correctIndex": 0,
+      "fact": "Meg Ryan co‑starred."
+    },
+    {
+      "q": "Which ’80s dance film features “(I’ve Had) The Time of My Life”?",
+      "choices": [
+        "Grease",
+        "Flashdance",
+        "Footloose",
+        "Dirty Dancing"
+      ],
+      "correctIndex": 3,
+      "fact": "Closing lift scene is legendary."
+    },
+    {
+      "q": "Which action film features Aerosmith’s “I Don’t Want to Miss a Thing”?",
+      "choices": [
+        "Armageddon",
+        "The Rock",
+        "Die Hard",
+        "Top Gun"
+      ],
+      "correctIndex": 0,
+      "fact": "1998 disaster film directed by Michael Bay."
+    },
+    {
+      "q": "Which hit‑maker from Sweden co‑wrote “…Baby One More Time” and “I Kissed a Girl”?",
+      "choices": [
+        "Max Martin",
+        "Benny Blanco",
+        "Shellback",
+        "RedOne"
+      ],
+      "correctIndex": 0,
+      "fact": "Pop architect behind dozens of No.1s."
+    },
+    {
+      "q": "Who co‑produced many tracks on Madonna’s *Ray of Light*?",
+      "choices": [
+        "Mirwais",
+        "Nile Rodgers",
+        "William Orbit",
+        "Stuart Price"
+      ],
+      "correctIndex": 2,
+      "fact": "Brought ambient/electronic textures to the album."
+    },
+    {
+      "q": "Which duo shaped Janet Jackson’s ’80s/’90s sound on *Control*/*Rhythm Nation*?",
+      "choices": [
+        "L.A. Reid & Babyface",
+        "Jimmy Jam & Terry Lewis",
+        "The Neptunes",
+        "Rodney Jerkins"
+      ],
+      "correctIndex": 1,
+      "fact": "Key collaborators across multiple albums."
+    },
+    {
+      "q": "Which album took 2012’s Grammy Album of the Year?",
+      "choices": [
+        "Bruno Mars – Doo‑Wops & Hooligans",
+        "Adele – 21",
+        "Lady Gaga – Born This Way",
+        "Rihanna – Loud"
+      ],
+      "correctIndex": 1,
+      "fact": "Adele swept the majors."
+    },
+    {
+      "q": "Which song claimed Record of the Year at the 2016 Grammys?",
+      "choices": [
+        "Blank Space",
+        "Uptown Funk",
+        "Thinking Out Loud",
+        "Hello"
+      ],
+      "correctIndex": 1,
+      "fact": "Technically 2016 ceremony awarded 2014–15 releases."
+    },
+    {
+      "q": "Who won Best New Artist at the 2008 Grammys?",
+      "choices": [
+        "Amy Winehouse",
+        "Taylor Swift",
+        "Katy Perry",
+        "Paramore"
+      ],
+      "correctIndex": 0,
+      "fact": "Winehouse beat out several pop contemporaries."
+    },
+    {
+      "q": "Which of these actually hit US #1?",
+      "choices": [
+        "We Found Love – Rihanna ft. Calvin Harris",
+        "Hips Don’t Lie – Shakira",
+        "Since U Been Gone – Kelly Clarkson",
+        "Toxic – Britney Spears"
+      ],
+      "correctIndex": 0,
+      "fact": "“We Found Love” led for 10 weeks; others were top‑10s (some #1s global)."
+    },
+    {
+      "q": "Which Coldplay single topped the Hot 100?",
+      "choices": [
+        "Viva la Vida",
+        "Speed of Sound",
+        "Yellow",
+        "Clocks"
+      ],
+      "correctIndex": 0,
+      "fact": "Their lone US #1."
+    },
+    {
+      "q": "Which ’90s ballad ruled the Hot 100 for 14 weeks?",
+      "choices": [
+        "Hero – Mariah Carey",
+        "I Will Always Love You – Whitney Houston",
+        "Vision of Love – Mariah Carey",
+        "End of the Road – Boyz II Men"
+      ],
+      "correctIndex": 1,
+      "fact": "Massive 1992‑93 run."
+    },
+    {
+      "q": "Which singer released the 1990 debut “Vision of Love”?",
+      "choices": [
+        "Mariah Carey",
+        "Celine Dion",
+        "Toni Braxton",
+        "Whitney Houston"
+      ],
+      "correctIndex": 0,
+      "fact": "Her first single introduced her five‑octave range."
+    },
+    {
+      "q": "Which band’s 1987 hit is “With or Without You”?",
+      "choices": [
+        "INXS",
+        "R.E.M.",
+        "Depeche Mode",
+        "U2"
+      ],
+      "correctIndex": 3,
+      "fact": "From the album *The Joshua Tree*."
+    },
+    {
+      "q": "Which artist’s 1984 single is “Like a Virgin”?",
+      "choices": [
+        "Pat Benatar",
+        "Cyndi Lauper",
+        "Madonna",
+        "Janet Jackson"
+      ],
+      "correctIndex": 2,
+      "fact": "Title track of her 1984 album."
+    },
+    {
+      "q": "“Wannabe” introduced which group in 1996?",
+      "choices": [
+        "All Saints",
+        "Sugababes",
+        "Atomic Kitten",
+        "Spice Girls"
+      ],
+      "correctIndex": 3,
+      "fact": "Debut single that went No.1 in multiple countries."
+    },
+    {
+      "q": "Who is the lead vocalist on “Don’t Speak”?",
+      "choices": [
+        "Shirley Manson",
+        "Gwen Stefani",
+        "Dolores O’Riordan",
+        "Belinda Carlisle"
+      ],
+      "correctIndex": 1,
+      "fact": "No Doubt’s 1996 ballad."
+    },
+    {
+      "q": "Which 2002 hit launched Avril Lavigne?",
+      "choices": [
+        "I’m with You",
+        "Complicated",
+        "Sk8er Boi",
+        "My Happy Ending"
+      ],
+      "correctIndex": 1,
+      "fact": "Debut single worldwide."
+    },
+    {
+      "q": "Which 2009 Lady Gaga single features epic fashion imagery?",
+      "choices": [
+        "Bad Romance",
+        "Just Dance",
+        "Poker Face",
+        "Paparazzi"
+      ],
+      "correctIndex": 0,
+      "fact": "From *The Fame Monster*."
+    },
+    {
+      "q": "Which 2011 Adele single dominated radio?",
+      "choices": [
+        "Hello",
+        "Set Fire to the Rain",
+        "Rolling in the Deep",
+        "Rumour Has It"
+      ],
+      "correctIndex": 2,
+      "fact": "Lead single off *21*."
+    },
+    {
+      "q": "Which city is The Killers most tied to?",
+      "choices": [
+        "Phoenix",
+        "Denver",
+        "Los Angeles",
+        "Las Vegas"
+      ],
+      "correctIndex": 3,
+      "fact": "Home base that shaped their neon‑rock sound."
+    },
+    {
+      "q": "Which film used “Take My Breath Away” for a love theme?",
+      "choices": [
+        "Top Gun",
+        "Flashdance",
+        "Dirty Dancing",
+        "Footloose"
+      ],
+      "correctIndex": 0,
+      "fact": "Berlin’s ballad won the Oscar."
+    },
+    {
+      "q": "Which decade best fits this classic release number 1?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 2,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 2?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 2,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 3?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 4?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 5?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 6?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 7?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 8?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 2,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 9?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 10?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 11?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 0,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 12?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 13?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 2,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 14?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 15?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 16?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 3,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 17?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 1,
+      "fact": "Decade ID round‑robin filler."
+    },
+    {
+      "q": "Which decade best fits this classic release number 18?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correctIndex": 0,
+      "fact": "Decade ID round‑robin filler."
+    }
+  ]
+}
