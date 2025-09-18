@@ -225,7 +225,10 @@
       img.src = `./img/${imgFile}`;
       img.alt = answerText;
       img.className = "slideshow-img";
-      img.onerror = function(){ img.style.display = 'none'; };
+      // Debug: show image path in console
+      console.log("Image src:", img.src);
+      // Comment out error handler so broken images show
+      // img.onerror = function(){ img.style.display = 'none'; };
       img.onload = function() {
         // Get available space below answer
         const panel = answerImagePanel.parentElement;
