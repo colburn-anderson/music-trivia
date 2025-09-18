@@ -222,7 +222,7 @@
       const answerText = item.options[item.correct];
       const imgFile = answerText.toLowerCase().replace(/[^a-z0-9]/g, '_') + '.png';
       const img = document.createElement('img');
-      img.src = `img/${imgFile}`;
+      img.src = `./img/${imgFile}`;
       img.alt = answerText;
       img.className = "slideshow-img";
       img.onerror = function(){ img.style.display = 'none'; };
