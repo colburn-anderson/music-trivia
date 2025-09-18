@@ -1,1246 +1,193 @@
 {
   "questions": [
+    
     {
       "q": "Who sang “Girls Just Want to Have Fun”?",
       "choices": ["Belinda Carlisle", "Madonna", "Debbie Gibson", "Cyndi Lauper"],
       "correctIndex": 3,
-      "fact": "The video was shot around New York City and features Lauper’s real mom as the ‘Mom’ character."
+      "image": "cyndi_lauper.png"
     },
     {
       "q": "Who sang “Like a Prayer”?",
       "choices": ["Cyndi Lauper", "Paula Abdul", "Madonna", "Whitney Houston"],
       "correctIndex": 2,
-      "fact": "The gospel-choir single sparked a Pepsi ad deal—then controversy that led to the ad being pulled."
+      "image": "madonna.png"
     },
     {
       "q": "Which group released the 90s hit “Waterfalls”?",
       "choices": ["En Vogue", "Destiny’s Child", "TLC", "Salt-N-Pepa"],
       "correctIndex": 2,
-      "fact": "Its groundbreaking video addressed HIV/AIDS and drug violence—rare topics for mainstream pop in 1995."
+      "image": "tlc.png"
     },
     {
       "q": "“…Baby One More Time” made which star a teen pop phenomenon?",
       "choices": ["Christina Aguilera", "Britney Spears", "Mandy Moore", "Jessica Simpson"],
       "correctIndex": 1,
-      "fact": "The video was filmed at Venice High School in Los Angeles—the same school used in “Grease.”"
+      "image": "britney_spears.png"
     },
     {
       "q": "Which 2007 Amy Winehouse single became a retro-soul anthem?",
       "choices": ["Rehab", "Valerie", "Back to Black", "You Know I’m No Good"],
       "correctIndex": 0,
-      "fact": "“Rehab” was inspired by Amy rejecting rehab—producer Mark Ronson said she wrote the hook in minutes."
+      "image": "rehab.png"
     },
     {
-      "q": "Who fronted No Doubt on “Don’t Speak”?",
-      "choices": ["Shirley Manson", "Gwen Stefani", "Alanis Morissette", "Avril Lavigne"],
+      "q": "Who sang “I Will Always Love You” for The Bodyguard soundtrack?",
+      "choices": ["Mariah Carey", "Whitney Houston", "Celine Dion", "Toni Braxton"],
       "correctIndex": 1,
-      "fact": "The ballad was about Gwen and bassist Tony Kanal’s breakup, turning a ska band into pop superstars."
+      "image": "whitney_houston.png"
     },
     {
-      "q": "Which diva’s Christmas hit returns to No.1 decades later?",
-      "choices": ["Celine Dion", "Whitney Houston", "Mariah Carey", "Alicia Keys"],
+      "q": "Which boy band released “I Want It That Way”?",
+      "choices": ["NSYNC", "Backstreet Boys", "98 Degrees", "O-Town"],
+      "correctIndex": 1,
+      "image": "backstreet_boys.png"
+    },
+    {
+      "q": "Who sang “Genie in a Bottle”?",
+      "choices": ["Britney Spears", "Jessica Simpson", "Christina Aguilera", "Mandy Moore"],
       "correctIndex": 2,
-      "fact": "“All I Want for Christmas Is You” was written with Walter Afanasieff and recorded in the summer of ’94."
+      "image": "christina_aguilera.png"
     },
     {
-      "q": "Which 2002 single launched Kelly Clarkson from American Idol winner to pop star?",
-      "choices": ["Behind These Hazel Eyes", "A Moment Like This", "Since U Been Gone", "Breakaway"],
-      "correctIndex": 1,
-      "fact": "It leapt to No.1 after her Idol win, then she pivoted to pop-rock with “Since U Been Gone.”"
-    },
-    {
-      "q": "Which Rihanna hit was originally offered to Britney Spears?",
-      "choices": ["Umbrella", "Only Girl (In the World)", "We Found Love", "Diamonds"],
-      "correctIndex": 0,
-      "fact": "Songwriters pitched “Umbrella” to multiple artists before it clicked with Rihanna and Jay-Z."
-    },
-    {
-      "q": "“Single Ladies” by Beyoncé is visually famous for what?",
-      "choices": ["Stop-motion animation", "One-take style and glove", "VR effects", "Split-screen neon"],
-      "correctIndex": 1,
-      "fact": "The choreography nods to Bob Fosse’s 1969 routine “Mexican Breakfast.” Black-and-white keeps it timeless."
-    },
-    {
-      "q": "Which 2008 Katy Perry single became a summer lightning rod?",
-      "choices": ["Teenage Dream", "Hot n Cold", "I Kissed a Girl", "California Gurls"],
-      "correctIndex": 2,
-      "fact": "It spent seven weeks at No.1 in the U.S. and kicked off Perry’s string of massive pop hits."
-    },
-    {
-      "q": "Which 2011 Adele ballad turned a BRIT Awards performance into a global moment?",
-      "choices": ["Hello", "Someone Like You", "Rolling in the Deep", "Set Fire to the Rain"],
-      "correctIndex": 1,
-      "fact": "Her stripped-down BRITs performance caused a surge that sent the song to No.1."
-    },
-    {
-      "q": "“Since U Been Gone” was produced by a Swedish hitmaker known for huge pop choruses. Who?",
-      "choices": ["Max Martin", "Timbaland", "Pharrell Williams", "Brian Eno"],
-      "correctIndex": 0,
-      "fact": "Max Martin (with Dr. Luke at the time) blended rock guitars with a pristine pop chorus."
-    },
-    {
-      "q": "Which group shouted “tell me why” in a 1999 pop classic?",
-      "choices": ["*NSYNC", "Backstreet Boys", "98 Degrees", "Boyz II Men"],
-      "correctIndex": 1,
-      "fact": "“I Want It That Way” was recorded in Stockholm; even the band jokes the lyrics don’t fully make sense."
-    },
-    {
-      "q": "Which star debuted with “Genie in a Bottle” in 1999?",
-      "choices": ["Britney Spears", "Christina Aguilera", "Jessica Simpson", "Mandy Moore"],
-      "correctIndex": 1,
-      "fact": "Aguilera was fresh from the “Mickey Mouse Club” alongside Britney and Justin Timberlake."
-    },
-    {
-      "q": "“Hips Don’t Lie” brought which Colombian artist a worldwide No.1 in 2006?",
-      "choices": ["Paulina Rubio", "Shakira", "Thalía", "Anahí"],
-      "correctIndex": 1,
-      "fact": "It samples Wyclef Jean’s “Dance Like This” and became Shakira’s first U.S. No.1."
-    },
-    {
-      "q": "Which 2004 Usher single dominated the year and featured Lil Jon & Ludacris?",
-      "choices": ["Yeah!", "Burn", "Confessions Part II", "My Boo"],
-      "correctIndex": 0,
-      "fact": "Crunk-&-B went mainstream with Lil Jon’s production—this track was inescapable."
-    },
-    {
-      "q": "Which pop-rock band’s debut “Songs About Jane” gave us “This Love”?",
-      "choices": ["The Fray", "Maroon 5", "Train", "OneRepublic"],
-      "correctIndex": 1,
-      "fact": "Released in 2002, the album had a slow burn—breaking big nearly two years later."
-    },
-    {
-      "q": "“Hey Ya!” made which duo’s split-album experiment a smash?",
-      "choices": ["OutKast", "The Neptunes", "Gnarls Barkley", "The Black Eyed Peas"],
-      "correctIndex": 0,
-      "fact": "Polaroid issued a statement about the lyric “shake it like a Polaroid picture.”"
-    },
-    {
-      "q": "Who sang “Sk8er Boi” in 2002?",
-      "choices": ["Michelle Branch", "Hilary Duff", "Avril Lavigne", "Pink"],
-      "correctIndex": 2,
-      "fact": "The pop-punk single helped crown Lavigne as the ‘anti-pop’ teen idol."
-    },
-    {
-      "q": "Which country-pop artist crossed over with “You Belong With Me”?",
-      "choices": ["Carrie Underwood", "Faith Hill", "Shania Twain", "Taylor Swift"],
-      "correctIndex": 3,
-      "fact": "The video’s nerd-vs-cheerleader concept won Best Female Video at the 2009 VMAs."
-    },
-    {
-      "q": "Which artist’s 2006 album “Back to Black” became a critical triumph?",
-      "choices": ["Joss Stone", "Alicia Keys", "Amy Winehouse", "Duffy"],
-      "correctIndex": 2,
-      "fact": "Mark Ronson and Salaam Remi’s retro production helped revive classic soul aesthetics."
-    },
-    {
-      "q": "Which 2013 Lorde hit critiqued luxury in pop culture?",
-      "choices": ["Green Light", "Perfect Places", "Royals", "Team"],
-      "correctIndex": 2,
-      "fact": "She wrote it at 15; the song’s minimal beat made ‘less is more’ cool again."
-    },
-    {
-      "q": "Which Destiny’s Child single repeats the name in the hook: “Say my name”?",
-      "choices": ["Survivor", "Independent Women", "Say My Name", "Bootylicious"],
-      "correctIndex": 2,
-      "fact": "Produced by Rodney Jerkins (Darkchild), it won two Grammys in 2001."
-    },
-    {
-      "q": "Who sang “A Thousand Miles” with that unforgettable piano riff?",
-      "choices": ["Michelle Branch", "Colbie Caillat", "Vanessa Carlton", "Sara Bareilles"],
-      "correctIndex": 2,
-      "fact": "Carlton wrote it in a dorm room; the video’s moving piano became iconic."
-    },
-    {
-      "q": "Which 2008 Lady Gaga single features the chant “Rah-rah-ah-ah-ah”?",
-      "choices": ["Just Dance", "Poker Face", "Bad Romance", "Born This Way"],
-      "correctIndex": 2,
-      "fact": "The video won major awards and helped define the ‘Haus of Gaga’ aesthetic."
-    },
-    {
-      "q": "Which band delivered “Mr. Brightside,” a karaoke staple?",
-      "choices": ["The Killers", "The Strokes", "Franz Ferdinand", "Kings of Leon"],
-      "correctIndex": 0,
-      "fact": "It re-entered UK charts for years—basically never left the party playlist."
-    },
-    {
-      "q": "Which artist’s 2014 hit joked about her ‘crazy ex’ persona?",
-      "choices": ["Katy Perry", "Taylor Swift", "Pink", "Carly Rae Jepsen"],
-      "correctIndex": 1,
-      "fact": "“Blank Space” is satire—she plays into the media’s caricature of her dating life."
-    },
-    {
-      "q": "“Rolling in the Deep” blends bluesy growl and stomping drums. Which artist?",
-      "choices": ["Adele", "Florence Welch", "Jessie J", "Emeli Sandé"],
-      "correctIndex": 0,
-      "fact": "Producer Paul Epworth captured Adele’s ‘spaghetti-western soul’ vibe."
-    },
-    {
-      "q": "Which girl group preached “No Scrubs” in 1999?",
-      "choices": ["TLC", "Destiny’s Child", "En Vogue", "3LW"],
-      "correctIndex": 0,
-      "fact": "Songwriters Kandi Burruss & Tameka Cottle (Xscape) penned the modern dating manifesto."
-    },
-    {
-      "q": "Which ballad made Whitney Houston’s “The Bodyguard” soundtrack a mega-seller?",
-      "choices": ["I Will Always Love You", "I Have Nothing", "Run to You", "Queen of the Night"],
-      "correctIndex": 0,
-      "fact": "Whitney’s version of Dolly Parton’s song spent 14 weeks at No.1."
-    },
-    {
-      "q": "Which 2012 Carly Rae Jepsen earworm became a meme machine?",
-      "choices": ["I Really Like You", "Run Away with Me", "Good Time", "Call Me Maybe"],
-      "correctIndex": 3,
-      "fact": "Even the U.S. Olympic swim team filmed a viral lip-sync on a plane."
-    },
-    {
-      "q": "Which duo’s “Say Something” (with Christina Aguilera) was a tear-jerker hit?",
-      "choices": ["The Chainsmokers", "A Great Big World", "MKTO", "Oh Wonder"],
-      "correctIndex": 1,
-      "fact": "Aguilera heard it on TV, reached out, and re-recorded it with them—then it exploded."
-    },
-    {
-      "q": "Which 2011 LMFAO track told you explicitly to shuffle?",
-      "choices": ["Shots", "Sorry for Party Rocking", "Sexy and I Know It", "Party Rock Anthem"],
-      "correctIndex": 3,
-      "fact": "The ‘Melbourne shuffle’ dance became a global fad thanks to the video."
-    },
-    {
-      "q": "Which 2003 Beyoncé solo single introduced ‘Jay-Z in the video’ energy?",
-      "choices": ["Crazy in Love", "Naughty Girl", "Baby Boy", "Me, Myself & I"],
-      "correctIndex": 0,
-      "fact": "That horn sample? The Chi-Lites’ “Are You My Woman (Tell Me So).”"
-    },
-    {
-      "q": "Which Pink anthem insists she’s ‘still a rock star’?",
-      "choices": ["So What", "Raise Your Glass", "Who Knew", "Just Like a Pill"],
-      "correctIndex": 0,
-      "fact": "She filmed the cheeky video during a real separation from her husband—then they reconciled."
-    },
-    {
-      "q": "Which 1997 single revived interest in the Bee Gees via a sample?",
-      "choices": ["Mo Money Mo Problems", "Fantasy", "Believe", "Together Again"],
-      "correctIndex": 1,
-      "fact": "Mariah Carey’s “Fantasy” (1995) famously sampled Tom Tom Club; but “Mo Money Mo Problems” sampled “I’m Coming Out.” (Trick!)"
-    },
-    {
-      "q": "Whose 1998 “That Don’t Impress Me Much” mixed country with cheeky pop?",
-      "choices": ["Faith Hill", "Shania Twain", "LeAnn Rimes", "Carrie Underwood"],
-      "correctIndex": 1,
-      "fact": "The leopard-print video became a Shania signature."
-    },
-    {
-      "q": "Which 2001 Alicia Keys debut single showcased classical-meets-R&B piano?",
-      "choices": ["You Don’t Know My Name", "If I Ain’t Got You", "Fallin’", "A Woman’s Worth"],
-      "correctIndex": 2,
-      "fact": "She was discovered by Clive Davis and played multiple instruments on her debut."
-    },
-    {
-      "q": "Which 2010 Bruno Mars ballad promises he’ll ‘catch a grenade’?",
-      "choices": ["Just the Way You Are", "Grenade", "When I Was Your Man", "It Will Rain"],
-      "correctIndex": 1,
-      "fact": "Mars started as a songwriter for others—this cemented his solo stardom."
-    },
-    {
-      "q": "Which 2014 megahit by Mark Ronson & Bruno Mars was pure retro funk?",
-      "choices": ["Treasure", "Uptown Funk", "Locked Out of Heaven", "24K Magic"],
-      "correctIndex": 1,
-      "fact": "Channeling The Time and Prince vibes, it topped charts worldwide."
-    },
-    {
-      "q": "Which 2007 Sara Bareilles single broke through without a reality show?",
-      "choices": ["Gravity", "Love Song", "Brave", "King of Anything"],
-      "correctIndex": 1,
-      "fact": "She wrote it as a snarky response to label pressure for a formulaic love tune."
-    },
-    {
-      "q": "Which 2006 Nelly Furtado era was produced largely by Timbaland?",
-      "choices": ["Whoa, Nelly!", "Loose", "Folklore", "The Ride"],
-      "correctIndex": 1,
-      "fact": "“Promiscuous” and “Say It Right” gave her a sleek, club-ready reinvention."
-    },
-    {
-      "q": "Which 2011 Nicki Minaj single repeated a neon-bubblegum hook?",
-      "choices": ["Super Bass", "Starships", "Anaconda", "Moment 4 Life"],
-      "correctIndex": 0,
-      "fact": "Taylor Swift rapped it at a show; the clip went viral and boosted the song."
-    },
-    {
-      "q": "Who fronted Paramore on “Misery Business”?",
-      "choices": ["Hayley Williams", "Amy Lee", "Lzzy Hale", "Avril Lavigne"],
-      "correctIndex": 0,
-      "fact": "Williams later paused performing it, reflecting on its teenage perspective."
-    },
-    {
-      "q": "Which 1995 Alanis Morissette album made alt-rock catharsis mainstream?",
-      "choices": ["Supposed Former Infatuation Junkie", "Jagged Little Pill", "Under Rug Swept", "Flavors of Entanglement"],
-      "correctIndex": 1,
-      "fact": "It won Album of the Year at 21—then the youngest woman to do so."
-    },
-    {
-      "q": "Which 2002 Michelle Branch single was everywhere on MTV and radio?",
-      "choices": ["Everywhere", "All You Wanted", "Goodbye to You", "Are You Happy Now?"],
-      "correctIndex": 0,
-      "fact": "Her singer-songwriter pop opened doors for Avril and others."
-    },
-    {
-      "q": "Which 2013 Miley Cyrus single came with a sledgehammer visual?",
-      "choices": ["Wrecking Ball", "We Can’t Stop", "Adore You", "Malibu"],
-      "correctIndex": 0,
-      "fact": "The video set a Vevo 24-hour view record at the time."
-    },
-    {
-      "q": "Which 2007 Leona Lewis ballad was co-written by Ryan Tedder?",
-      "choices": ["Bleeding Love", "Better in Time", "Run", "Happy"],
-      "correctIndex": 0,
-      "fact": "It topped charts in over 30 countries—X Factor’s biggest global breakout."
-    },
-    {
-      "q": "Which DJ teamed with Rihanna for “We Found Love” (2011)?",
-      "choices": ["David Guetta", "Avicii", "Calvin Harris", "Zedd"],
-      "correctIndex": 2,
-      "fact": "It helped cement EDM’s takeover of U.S. pop radio."
-    },
-    {
-      "q": "Which 2014 Sia video featured a young dancer in a blonde wig?",
-      "choices": ["Elastic Heart", "Chandelier", "Cheap Thrills", "Alive"],
-      "correctIndex": 1,
-      "fact": "Dancer Maddie Ziegler became synonymous with Sia’s visual era."
-    },
-    {
-      "q": "Which 2000 *NSYNC single asked if you wanted them ‘back’?",
-      "choices": ["Tearin’ Up My Heart", "Pop", "It’s Gonna Be Me", "Bye Bye Bye"],
-      "correctIndex": 2,
-      "fact": "Thanks to a meme, “It’s Gonna Be May,” it resurges every spring."
-    },
-    {
-      "q": "Which 1997 Janet Jackson single asked “Are You Recording Me?” in the video?",
-      "choices": ["Together Again", "Got 'Til It's Gone", "I Get Lonely", "All for You"],
-      "correctIndex": 1,
-      "fact": "It samples Joni Mitchell and Q-Tip appears—bridging eras of cool."
-    },
-    {
-      "q": "Which 2011 Britney Spears hit had a dubstep breakdown?",
-      "choices": ["Till the World Ends", "Hold It Against Me", "Womanizer", "Circus"],
-      "correctIndex": 1,
-      "fact": "The song’s middle eight brought dubstep into Top-40 mainstream."
-    },
-    {
-      "q": "Which 2005 Gwen Stefani single spelled it out: ‘This my sh—’?",
-      "choices": ["Cool", "Hollaback Girl", "Rich Girl", "What You Waiting For?"],
-      "correctIndex": 1,
-      "fact": "It became the first U.S. digital download to sell a million copies."
-    },
-    {
-      "q": "Which 2010 Kesha single got produced in a hotel room on a laptop?",
-      "choices": ["Tik Tok", "Die Young", "Your Love Is My Drug", "We R Who We R"],
-      "correctIndex": 0,
-      "fact": "It spent nine weeks at No.1 and set the tone for party-pop in the 2010s."
-    },
-    {
-      "q": "Which 2001 Mary J. Blige anthem insisted on self-respect?",
-      "choices": ["No More Drama", "Family Affair", "Real Love", "Just Fine"],
-      "correctIndex": 1,
-      "fact": "“Family Affair” gave her first Hot 100 No.1—produced by Dr. Dre."
-    },
-    {
-      "q": "Which rock ballad by Evanescence featured rapper Paul McCoy?",
-      "choices": ["Going Under", "Bring Me to Life", "My Immortal", "Call Me When You’re Sober"],
-      "correctIndex": 1,
-      "fact": "Amy Lee’s operatic vocals helped the song cross from rock radio to pop."
-    },
-    {
-      "q": "Which 2010 Taio Cruz hit made ‘I throw my hands up in the air sometimes…’ unavoidable?",
-      "choices": ["Dynamite", "Break Your Heart", "Higher", "Hangover"],
-      "correctIndex": 0,
-      "fact": "It became a go-to sports arena anthem worldwide."
-    },
-    {
-      "q": "Which 2007 Fergie single spelled out a glamorous life (without the champagne problems)?",
-      "choices": ["Glamorous", "Fergalicious", "Big Girls Don’t Cry", "London Bridge"],
-      "correctIndex": 0,
-      "fact": "Featuring Ludacris, it contrasted luxury with humble beginnings."
-    },
-    {
-      "q": "Which 2001 Jennifer Lopez single featured Ja Rule on a famous remix?",
-      "choices": ["If You Had My Love", "Ain’t It Funny", "I’m Real", "Love Don’t Cost a Thing"],
-      "correctIndex": 2,
-      "fact": "The Murder Inc remix trend helped define early-2000s pop-R&B crossovers."
-    },
-    {
-      "q": "Which 2012 fun. song (with Janelle Monáe) became a graduation staple?",
-      "choices": ["Carry On", "Some Nights", "We Are Young", "Why Am I the One"],
-      "correctIndex": 2,
-      "fact": "It exploded after “Glee” and a Chevy ad—then won Song of the Year."
-    },
-    {
-      "q": "Which 2010 Katy Perry single tied Michael Jackson’s record for five No.1s from one album?",
-      "choices": ["Roar", "Teenage Dream", "Dark Horse", "Firework"],
-      "correctIndex": 1,
-      "fact": "The “Teenage Dream” era scored five Hot 100 No.1s—matching Jackson’s “Bad.”"
-    },
-    {
-      "q": "Which 2009 Keri Hilson single featured Kanye West & Ne-Yo?",
-      "choices": ["Pretty Girl Rock", "Knock You Down", "Turnin Me On", "Lose Control"],
-      "correctIndex": 1,
-      "fact": "Hilson was a songwriter first—penning hits for others before stepping out front."
-    },
-    {
-      "q": "Which 2011 Jessie J single encouraged body positivity and self-love?",
-      "choices": ["Price Tag", "Domino", "Who You Are", "Bang Bang"],
-      "correctIndex": 2,
-      "fact": "Her power-ballad vocals made it a fan favorite despite not being the biggest chart hit."
-    },
-    {
-      "q": "Who sang “Breathe (2 AM)” in 2005?",
-      "choices": ["Natalie Imbruglia", "Anna Nalick", "Dido", "Vanessa Carlton"],
-      "correctIndex": 1,
-      "fact": "The song got a boost from TV medical dramas and adult-pop radio."
-    },
-    {
-      "q": "Which 2008 Leighton Meester feature with Cobra Starship hit the top 10?",
-      "choices": ["Good Girls Go Bad", "Stereo Love", "You Make Me Feel...", "Check Yes Juliet"],
-      "correctIndex": 0,
-      "fact": "“Gossip Girl” star meets neon-pop—peak late-2000s energy."
-    },
-    {
-      "q": "Which 2004 Ashlee Simpson single had a famous SNL lip-sync mishap era?",
-      "choices": ["Pieces of Me", "La La", "Shadow", "Boyfriend"],
-      "correctIndex": 0,
-      "fact": "Despite SNL drama, the single became a legit pop-rock hit."
-    },
-    {
-      "q": "Which 1999 TLC album title referenced millions they weren’t making?",
-      "choices": ["FanMail", "CrazySexyCool", "3D", "Ooooooohhh... On the TLC Tip"],
-      "correctIndex": 0,
-      "fact": "Despite success, the group was in a highly publicized financial battle."
-    },
-    {
-      "q": "Which 2002 Shakira English-language single compared hips to truth detectors?",
-      "choices": ["Underneath Your Clothes", "Hips Don’t Lie", "Whenever, Wherever", "She Wolf"],
-      "correctIndex": 2,
-      "fact": "She played multiple instruments and co-produced—rare for pop stars then."
-    },
-    {
-      "q": "Which 2003 Hilary Duff single came from the movie “The Lizzie McGuire Movie”?",
-      "choices": ["Come Clean", "So Yesterday", "Why Not", "Fly"],
-      "correctIndex": 2,
-      "fact": "The film gave her a launching pad from TV to pop star."
-    },
-    {
-      "q": "Which 2010 Nicki Minaj feature on a Rihanna song gave a fire verse?",
-      "choices": ["What’s My Name?", "Cheers (Drink to That)", "Take a Bow", "Where Have You Been"],
-      "correctIndex": 0,
-      "fact": "Drake appears on the album’s lead single; Nicki steals the show on Track 2."
-    },
-    {
-      "q": "Which 2001 Kylie Minogue single became a sleek disco comeback?",
-      "choices": ["Spinning Around", "Love at First Sight", "Can’t Get You Out of My Head", "In Your Eyes"],
-      "correctIndex": 2,
-      "fact": "The ‘la la la’ hook is one of the simplest, stickiest pop lines ever."
-    },
-    {
-      "q": "Which 2013 Avicii track fused country-folk with EDM?",
-      "choices": ["Hey Brother", "Levels", "Wake Me Up", "Waiting for Love"],
-      "correctIndex": 2,
-      "fact": "Aloe Blacc’s vocal gave the drop real soul—festival crowds loved it."
-    },
-    {
-      "q": "Which 2012 Gotye single featured Kimbra and a very memorable body-paint video?",
-      "choices": ["Eyes Wide Open", "Somebody That I Used to Know", "I Feel Better", "Save Me"],
-      "correctIndex": 1,
-      "fact": "The stop-motion painting style helped the song go massively viral."
-    },
-    {
-      "q": "Which 2002 Nelly & Kelly duet had a split-screen texting video?",
-      "choices": ["Just a Dream", "Dilemma", "Over and Over", "Air Force Ones"],
-      "correctIndex": 1,
-      "fact": "Fun detail: Kelly tries to text on an Excel spreadsheet in the video."
-    },
-    {
-      "q": "Which 2008 T.I. & Rihanna single gave us ‘live your life’ wisdom (and a sample of O-Zone)?",
-      "choices": ["Whatever You Like", "Live Your Life", "Run This Town", "Love the Way You Lie"],
-      "correctIndex": 1,
-      "fact": "Yes—that triumphant chant is from “Dragostea Din Tei” (the ‘Numa Numa’ song)."
-    },
-    {
-      "q": "Which 2010 B.o.B single featured Hayley Williams from Paramore?",
-      "choices": ["Magic", "Airplanes", "Nothin’ on You", "Strange Clouds"],
-      "correctIndex": 1,
-      "fact": "“Airplanes, Part II” added Eminem for an even bigger version."
-    },
-    {
-      "q": "Which 1999 Santana comeback single featured Rob Thomas?",
-      "choices": ["Smooth", "Maria Maria", "The Game of Love", "Into the Night"],
-      "correctIndex": 0,
-      "fact": "It dominated 1999 and won Record of the Year at the Grammys."
-    },
-    {
-      "q": "Which 2009 Miley Cyrus song said goodbye to Tennessee with a radio sing-along?",
-      "choices": ["Party in the U.S.A.", "The Climb", "7 Things", "Fly on the Wall"],
-      "correctIndex": 0,
-      "fact": "Written by Jessie J, it was originally meant for Jessie herself."
-    },
-    {
-      "q": "Which 2008 Leona Lewis cover turned Snow Patrol’s song into a big belter?",
-      "choices": ["Bleeding Love", "Happy", "Better in Time", "Run"],
-      "correctIndex": 3,
-      "fact": "Her version became a UK No.1, giving the ballad a second life."
-    },
-    {
-      "q": "Which 1990s Celine Dion song is famously tied to a certain unsinkable film?",
-      "choices": ["My Heart Will Go On", "Because You Loved Me", "The Power of Love", "It’s All Coming Back to Me Now"],
-      "correctIndex": 0,
-      "fact": "She didn’t want to record a demo—her husband convinced her. The rest is history."
-    },
-    {
-      "q": "Which 2000s star made ‘Since you been gone I can breathe for the first time’ a break-up scream-along?",
-      "choices": ["Kelly Clarkson", "Pink", "Avril Lavigne", "Michelle Branch"],
-      "correctIndex": 0,
-      "fact": "Clarkson pushed for more guitars to avoid sounding too bubblegum."
-    },
-    {
-      "q": "Which 2004 Hoobastank song had every school talent show flooded with covers?",
-      "choices": ["The Reason", "Crawling in the Dark", "Out of Control", "If I Were You"],
-      "correctIndex": 0,
-      "fact": "It became one of the era’s biggest prom slow-dance songs."
-    },
-    {
-      "q": "Which 2011 Foster the People single had an upbeat tune with dark lyrics?",
-      "choices": ["Helena Beat", "Pumped Up Kicks", "Houdini", "Sit Next to Me"],
-      "correctIndex": 1,
-      "fact": "Its commentary on youth violence contrasts with its breezy whistle hook."
-    },
-    {
-      "q": "Which 2007 Plain White T’s ballad started as a long-distance love letter?",
-      "choices": ["1,2,3,4", "Rhythm of Love", "Hey There Delilah", "Our Time Now"],
-      "correctIndex": 2,
-      "fact": "Delilah is a real person—a collegiate runner who inspired the song."
-    },
-    {
-      "q": "Which 2004 Ashanti & Ja Rule era defined early-2000s R&B hooks?",
-      "choices": ["Foolish", "Always on Time", "Mesmerize", "Rock wit U (Awww Baby)"],
-      "correctIndex": 1,
-      "fact": "Ja Rule’s gravelly ad-libs + Ashanti’s silky hooks were everywhere."
-    },
-    {
-      "q": "Which 2013 Robin Thicke single stirred a lot of debate and topped charts anyway?",
-      "choices": ["Sweetest Love", "Blurred Lines", "Give It 2 U", "Magic"],
-      "correctIndex": 1,
-      "fact": "Its Marvin Gaye lawsuit became a landmark copyright case."
-    },
-    {
-      "q": "Which 2004 JoJo hit made her one of the youngest Top-40 stars?",
-      "choices": ["Leave (Get Out)", "Too Little Too Late", "Baby It’s You", "Anything"],
-      "correctIndex": 0,
-      "fact": "She was 13—later re-recording her early catalog to regain control."
-    },
-    {
-      "q": "Which 2010 Enrique Iglesias single featured Pitbull and dominated clubs?",
-      "choices": ["Tonight (I’m Lovin’ You)", "I Like It", "Bailando", "Hero"],
-      "correctIndex": 1,
-      "fact": "It sampled Lionel Richie’s “All Night Long” in the hook."
-    },
-    {
-      "q": "Which 2002 Nelly single made Band-Aid on the cheek a trend?",
-      "choices": ["Hot in Herre", "Ride wit Me", "Country Grammar", "Dilemma"],
-      "correctIndex": 0,
-      "fact": "Produced by The Neptunes, it coined a million summer captions."
-    },
-    {
-      "q": "Which 1997 Aqua novelty hit became an earworm you can’t unhear?",
-      "choices": ["Blue (Da Ba Dee)", "Barbie Girl", "The Ketchup Song", "Who Let the Dogs Out"],
-      "correctIndex": 1,
-      "fact": "Mattel sued; the band responded, ‘Life in plastic, it’s fantastic.’"
-    },
-    {
-      "q": "Which 2011 Christina Perri ballad found new life on “So You Think You Can Dance”?",
-      "choices": ["Jar of Hearts", "A Thousand Years", "Human", "Arms"],
-      "correctIndex": 0,
-      "fact": "A TV performance sent it rocketing from unknown to hit."
-    },
-    {
-      "q": "Which 2008 Ne-Yo single was sleek, polite R&B at its finest?",
-      "choices": ["Mad", "Miss Independent", "Closer", "So Sick"],
-      "correctIndex": 2,
-      "fact": "Ne-Yo also penned hits for Rihanna and Beyoncé—he’s a songwriting machine."
-    },
-    {
-      "q": "Which 1996 Spice Girls debut single declared their friendship code?",
-      "choices": ["2 Become 1", "Say You’ll Be There", "Spice Up Your Life", "Wannabe"],
-      "correctIndex": 3,
-      "fact": "The video looks like one take—shot at London’s St Pancras hotel."
-    },
-    {
-      "q": "Which 2000s diva told us to ‘leave the pieces when you go’—oh wait, that’s the Wreckers. Who sang it?",
-      "choices": ["The Wreckers", "Lady A", "The Chicks", "Sugarland"],
-      "correctIndex": 0,
-      "fact": "Michelle Branch formed the duo with Jessica Harp for a country detour."
-    },
-    {
-      "q": "Which 2009 Jay-Z & Alicia Keys anthem saluted a concrete jungle?",
-      "choices": ["Run This Town", "Empire State of Mind", "Young Forever", "Holy Grail"],
-      "correctIndex": 1,
-      "fact": "Alicia later did a Part II ballad version on her own album."
-    },
-    {
-      "q": "Which 1998 Natalie Imbruglia hit was actually a cover of a little-known track?",
-      "choices": ["Torn", "Big Mistake", "Smoke", "Shiver"],
-      "correctIndex": 0,
-      "fact": "It’s a cover of Ednaswap; Natalie’s version became definitive."
-    },
-    {
-      "q": "Which 2007 OneRepublic ballad got huge via Timbaland’s remix?",
-      "choices": ["Apologize", "Stop and Stare", "All the Right Moves", "Secrets"],
-      "correctIndex": 0,
-      "fact": "Timbo’s version dominated radio; their original is more piano-led."
-    },
-    {
-      "q": "Which 2000 Faith Hill single told you to just ‘breathe’?",
-      "choices": ["This Kiss", "Breathe", "Cry", "There You’ll Be"],
-      "correctIndex": 1,
-      "fact": "The crossover ballad topped country and pop airplay charts."
-    },
-    {
-      "q": "Which 2010 The Script hit asked you to break even?",
-      "choices": ["For the First Time", "Breakeven", "The Man Who Can’t Be Moved", "Hall of Fame"],
-      "correctIndex": 1,
-      "fact": "Danny O’Donoghue used to write for other pop acts before the band."
-    },
-    {
-      "q": "Which 2005 James Blunt single had everyone singing ‘you’re beautiful’?",
-      "choices": ["Goodbye My Lover", "1973", "You’re Beautiful", "Stay the Night"],
-      "correctIndex": 2,
-      "fact": "He wrote it after seeing an ex on the tube with another man."
-    },
-    {
-      "q": "Which 2014 Meghan Trainor single made doo-wop cool again?",
-      "choices": ["All About That Bass", "Lips Are Movin", "Dear Future Husband", "Like I’m Gonna Lose You"],
-      "correctIndex": 0,
-      "fact": "She wrote it with Kevin Kadish in a single day—retro sound, modern message."
-    },
-    {
-      "q": "Which 2009 Owl City hit recorded in a basement went to No.1?",
-      "choices": ["Fireflies", "Good Time", "Vanilla Twilight", "When Can I See You Again?"],
-      "correctIndex": 0,
-      "fact": "Adam Young made it on a laptop while working nights at a warehouse."
-    },
-    {
-      "q": "Which 2010 B.o.B single with Bruno Mars promised you’re amazing just the way you are?",
-      "choices": ["Nothin’ on You", "Magic", "Airplanes", "So Good"],
-      "correctIndex": 0,
-      "fact": "It broke B.o.B and introduced Bruno Mars to radio audiences at scale."
-    },
-    {
-      "q": "Which 1997 Puff Daddy tribute to The Notorious B.I.G. sampled The Police?",
-      "choices": ["Victory", "I’ll Be Missing You", "Can’t Nobody Hold Me Down", "Been Around the World"],
-      "correctIndex": 1,
-      "fact": "Faith Evans (Biggie’s widow) sang the hook; it won a Grammy."
-    },
-    {
-      "q": "Which 2002 Shania Twain single was literally about not being impressed?",
-      "choices": ["Up!", "Ka-Ching!", "That Don’t Impress Me Much", "Man! I Feel Like a Woman!"],
-      "correctIndex": 2,
-      "fact": "The Brad Pitt line became a time-capsule lyric."
-    },
-    {
-      "q": "Which 2013 Demi Lovato power ballad was about resilience?",
-      "choices": ["Give Your Heart a Break", "Heart Attack", "Skyscraper", "Cool for the Summer"],
-      "correctIndex": 2,
-      "fact": "Demi re-recorded vocals later after initially doing it during a tough time."
-    },
-    {
-      "q": "Which 2011 Drake single coined “YOLO” for the mainstream?",
-      "choices": ["Started From the Bottom", "Hold On, We’re Going Home", "Headlines", "The Motto"],
-      "correctIndex": 3,
-      "fact": "Lil Wayne appears; the phrase took on a life of its own."
-    },
-    {
-      "q": "Which 2013 Ariana Grande & Mac Miller duet was a sweet breakout?",
-      "choices": ["Break Free", "The Way", "Problem", "Love Me Harder"],
-      "correctIndex": 1,
-      "fact": "Ariana’s whistle notes drew Mariah comparisons right away."
-    },
-    {
-      "q": "Which 2015 Justin Bieber single asked if it was too late now to say sorry?",
-      "choices": ["Love Yourself", "Sorry", "What Do You Mean?", "Company"],
-      "correctIndex": 1,
-      "fact": "The dance-video release (with ReQuest & Royal Family crews) became iconic."
-    },
-    {
-      "q": "Which 2010 K’naan song became a World Cup anthem?",
-      "choices": ["Bang Bang", "Wavin’ Flag", "Hurt Me Tomorrow", "Is Anybody Out There?"],
-      "correctIndex": 1,
-      "fact": "Coca-Cola commissioned a remix for the 2010 World Cup."
-    },
-    {
-      "q": "Which 2004 U2 single insisted it was a ‘beautiful day’?",
-      "choices": ["Beautiful Day", "Vertigo", "Elevation", "Sometimes You Can’t Make It on Your Own"],
-      "correctIndex": 0,
-      "fact": "It won three Grammys and kicked off their 2000s revival."
-    },
-    {
-      "q": "Which 2007 Natasha Bedingfield track was pure journal-as-manifesto?",
-      "choices": ["These Words", "Pocketful of Sunshine", "Unwritten", "Soulmate"],
-      "correctIndex": 2,
-      "fact": "It became the closing theme for MTV’s “The Hills.”"
-    },
-    {
-      "q": "Which 2011 Adele single starts with “There’s a fire starting in my heart”?",
-      "choices": ["Set Fire to the Rain", "Someone Like You", "Rolling in the Deep", "Turning Tables"],
-      "correctIndex": 2,
-      "fact": "Her powerhouse vocal stacked over stomps and claps defined the era."
-    },
-    {
-      "q": "Which 2002 Vanessa Carlton / Counting Crows soundtrack duet hit No.1?",
-      "choices": ["Accidentally in Love", "Big Yellow Taxi", "American Girls", "Holiday in Spain"],
-      "correctIndex": 1,
-      "fact": "Counting Crows covered Joni Mitchell with Carlton—radio loved it."
-    },
-    {
-      "q": "Which 2003 Beyoncé & Sean Paul collab heated things up?",
-      "choices": ["Beautiful Liar", "Baby Boy", "Naughty Girl", "Check On It"],
-      "correctIndex": 1,
-      "fact": "Dancehall fused with pop—an early taste of global-pop dominance."
-    },
-    {
-      "q": "Which 2007 Timbaland & OneRepublic track re-introduced piano pop to clubs?",
-      "choices": ["Apologize", "The Way I Are", "Give It to Me", "Scream"],
-      "correctIndex": 0,
-      "fact": "The remix outcharted the original by miles."
-    },
-    {
-      "q": "Which 2001 Lifehouse single had that soaring ‘I’m falling even more in love’ hook?",
-      "choices": ["You and Me", "Hanging by a Moment", "Sick Cycle Carousel", "Spin"],
-      "correctIndex": 1,
-      "fact": "It was the most played song on U.S. radio in 2001."
-    },
-    {
-      "q": "Which 2005 The Pussycat Dolls debut single introduced Nicole Scherzinger’s lead?",
-      "choices": ["Don’t Cha", "Buttons", "Stickwitu", "When I Grow Up"],
-      "correctIndex": 0,
-      "fact": "Originally recorded by Tori Alamaze, PCD’s version became the hit."
-    },
-    {
-      "q": "Which 2001 Blue Cantrell single complained about a cheater’s credit card bill?",
-      "choices": ["Hit ’Em Up Style (Oops!)", "Breathe", "Make Me Wanna Scream", "I’ll Find a Way"],
-      "correctIndex": 0,
-      "fact": "It became an anthem for retail revenge."
-    },
-    {
-      "q": "Which 2013 Icona Pop shout-along was basically one long catharsis?",
-      "choices": ["All Night", "Girlfriend", "Get Lost", "I Love It"],
-      "correctIndex": 3,
-      "fact": "Charli XCX wrote it—then gave it away; it exploded worldwide."
-    },
-    {
-      "q": "Which 2002 Christina Aguilera era embraced a rawer image and sound?",
-      "choices": ["Stripped", "Bionic", "Back to Basics", "Lotus"],
-      "correctIndex": 0,
-      "fact": "“Beautiful” became a timeless self-acceptance anthem."
-    },
-    {
-      "q": "Which 2004 Green Day rock-opera single had a bullet in the title?",
-      "choices": ["American Idiot", "Wake Me Up When September Ends", "Boulevard of Broken Dreams", "Holiday"],
-      "correctIndex": 2,
-      "fact": "It won Record of the Year and crossed to adult-pop radio."
-    },
-    {
-      "q": "Which 2012 Fun. single asks if tonight we are young?",
-      "choices": ["Some Nights", "Carry On", "We Are Young", "Why Am I the One"],
-      "correctIndex": 2,
-      "fact": "Janelle Monáe’s feature added cool factor and contrast."
-    },
-    {
-      "q": "Which 2005 Fall Out Boy single made long titles a thing?",
-      "choices": ["Sugar, We’re Goin Down", "Dance, Dance", "Thnks fr th Mmrs", "This Ain’t a Scene"],
-      "correctIndex": 0,
-      "fact": "The bass line + Patrick Stump’s melody defined emo-pop’s mainstream moment."
-    },
-    {
-      "q": "Which 2008 Katy Perry song turned fireworks into a metaphor the next year?",
-      "choices": ["Hot n Cold", "Last Friday Night", "Teenage Dream", "Firework"],
-      "correctIndex": 3,
-      "fact": "Inspired by a passage in the novel “On the Road” (Kerouac)."
-    },
-    {
-      "q": "Which 2011 LMFAO hit declared self-confidence via leopard leggings?",
-      "choices": ["Party Rock Anthem", "Shots", "Sexy and I Know It", "Champagne Showers"],
-      "correctIndex": 2,
-      "fact": "The ‘wiggle’ dance took over gyms and weddings alike."
-    },
-    {
-      "q": "Which 2010 The Black Eyed Peas single said it was time for a good, good night?",
-      "choices": ["Boom Boom Pow", "I Gotta Feeling", "Meet Me Halfway", "Just Can’t Get Enough"],
-      "correctIndex": 1,
-      "fact": "Co-produced by David Guetta, it became a party standard."
-    },
-    {
-      "q": "Which 2012 Taylor Swift lead single signaled a full pop switch?",
-      "choices": ["Blank Space", "Look What You Made Me Do", "Shake It Off", "Style"],
-      "correctIndex": 2,
-      "fact": "It kicked off the ‘1989’ era—no more country radio."
-    },
-    {
-      "q": "Which 2004 Cassie single (actually 2006) went from MySpace to mainstream?",
-      "choices": ["Long Way 2 Go", "Official Girl", "Me & U", "King of Hearts"],
-      "correctIndex": 2,
-      "fact": "Ryan Leslie produced the minimalist R&B that still sounds fresh."
-    },
-    {
-      "q": "Which 2000 Aaliyah single showed futuristic choreography with director Paul Hunter?",
-      "choices": ["Try Again", "Are You That Somebody?", "More Than a Woman", "Rock the Boat"],
-      "correctIndex": 0,
-      "fact": "“Try Again” was the first song to top the Hot 100 solely on airplay."
-    },
-    {
-      "q": "Which 2010 Katy Perry Snoop-assisted single turned beaches into candyland?",
-      "choices": ["California Gurls", "Teenage Dream", "E.T.", "The One That Got Away"],
+      "q": "Which group had a hit with “Wannabe”?",
+      "choices": ["Spice Girls", "All Saints", "B*Witched", "Atomic Kitten"],
       "correctIndex": 0,
-      "fact": "The video’s gummy-bear army is burned into 2010 pop memory."
-    },
-    {
-      "q": "Which 2007 Rihanna single changed her image from innocent to edgy?",
-      "choices": ["Pon de Replay", "SOS", "Umbrella", "Disturbia"],
-      "correctIndex": 2,
-      "fact": "The ‘ella-ella-eh’ hook was inescapable for a year straight."
-    },
-    {
-      "q": "Which 1997 Savage Garden single claimed ‘I want you, I don’t know if I need you’?",
-      "choices": ["I Want You", "Truly Madly Deeply", "To the Moon & Back", "Affirmation"],
-      "correctIndex": 0,
-      "fact": "The rapid-fire verses made it a tongue-twister karaoke challenge."
-    },
-    {
-      "q": "Which 2008 Beyoncé anthem told you to put a ring on it?",
-      "choices": ["Halo", "Run the World (Girls)", "Single Ladies", "Irreplaceable"],
-      "correctIndex": 2,
-      "fact": "It inspired countless proposals…and memes."
-    },
-    {
-      "q": "Which 2015 The Weeknd single turned a haircut into a chart era?",
-      "choices": ["The Hills", "Can’t Feel My Face", "Earned It", "Starboy"],
-      "correctIndex": 1,
-      "fact": "Co-written with Max Martin, it nods to MJ while staying moody."
-    },
-    {
-      "q": "Which 2013 Macklemore & Ryan Lewis song pushed thrift store chic?",
-      "choices": ["Can’t Hold Us", "Thrift Shop", "Same Love", "Downtown"],
-      "correctIndex": 1,
-      "fact": "The $20 budget joke became a worldwide catchphrase."
+      "image": "spice_girls.png"
     },
     {
-      "q": "Which 2009 Keri Hilson solo single praised being ‘pretty girl rock’?",
-      "choices": ["Pretty Girl Rock", "Knock You Down", "Energy", "Turnin Me On"],
+      "q": "Who sang “Umbrella” featuring Jay-Z?",
+      "choices": ["Rihanna", "Beyoncé", "Alicia Keys", "Ciara"],
       "correctIndex": 0,
-      "fact": "The video paid tribute to icons like Janet and TLC."
+      "image": "rihanna.png"
     },
     {
-      "q": "Which 2001 Destiny’s Child single named the bills you need to pay?",
-      "choices": ["Bills, Bills, Bills", "Independent Women", "Jumpin’, Jumpin’", "Bootylicious"],
+      "q": "Which artist released “Poker Face”?",
+      "choices": ["Lady Gaga", "Katy Perry", "Pink", "Avril Lavigne"],
       "correctIndex": 0,
-      "fact": "They recorded much of their early work in Houston with Mathew Knowles’ guidance."
-    },
-    {
-      "q": "Which 2010 Train song brought them back after “Drops of Jupiter”?",
-      "choices": ["Drive By", "Hey, Soul Sister", "50 Ways to Say Goodbye", "Marry Me"],
-      "correctIndex": 1,
-      "fact": "That ukulele riff made them a Hot AC staple again."
+      "image": "lady_gaga.png"
     },
     {
-      "q": "Which 2005 The Black Eyed Peas single wondered where the love went?",
-      "choices": ["Where Is the Love?", "Pump It", "Don’t Phunk with My Heart", "Meet Me Halfway"],
+      "q": "Who sang “Since U Been Gone”?",
+      "choices": ["Kelly Clarkson", "Carrie Underwood", "Leona Lewis", "Jordin Sparks"],
       "correctIndex": 0,
-      "fact": "Justin Timberlake sang the chorus uncredited on the original release."
+      "image": "kelly_clarkson.png"
     },
     {
-      "q": "Which 2012 Psy song made horse-dance a global language?",
-      "choices": ["Gentleman", "Gangnam Style", "Daddy", "New Face"],
+      "q": "Which group released “Bye Bye Bye”?",
+      "choices": ["Backstreet Boys", "NSYNC", "Westlife", "Take That"],
       "correctIndex": 1,
-      "fact": "It was the first YouTube video to hit 1 billion views."
+      "image": "nsync.png"
     },
     {
-      "q": "Which 2005 Craig David single asked “What’s Your Flava?”—nope, earlier hit?",
-      "choices": ["7 Days", "Fill Me In", "Walking Away", "What’s Your Flava?"],
-      "correctIndex": 1,
-      "fact": "UK garage’s smoothest export crossed into U.S. pop radio."
-    },
-    {
-      "q": "Which 2003 Beyoncé song reminded you ‘to the left, to the left’—actually later hit?",
-      "choices": ["Irreplaceable", "If I Were a Boy", "Halo", "Check On It"],
+      "q": "Who sang “Toxic”?",
+      "choices": ["Britney Spears", "Christina Aguilera", "Jessica Simpson", "Pink"],
       "correctIndex": 0,
-      "fact": "The Ne-Yo co-write became a catchphrase for moving on."
-    },
-    {
-      "q": "Which 2011 LMFAO-adjacent pop diva hit had Minaj and M.I.A. at the Super Bowl?",
-      "choices": ["Roar", "Dark Horse", "Last Friday Night", "Give Me All Your Luvin’"],
-      "correctIndex": 3,
-      "fact": "Madonna’s halftime show featured a Roman-glam spectacle."
+      "image": "toxic.png"
     },
     {
-      "q": "Which 2007 Colbie Caillat beachy single became a MySpace success story?",
-      "choices": ["Bubbly", "Realize", "Try", "Brighter Than the Sun"],
+      "q": "Which artist released “Firework”?",
+      "choices": ["Katy Perry", "Lady Gaga", "Rihanna", "Adele"],
       "correctIndex": 0,
-      "fact": "She uploaded demos to MySpace, topping the site’s charts pre-deal."
+      "image": "katy_perry.png"
     },
     {
-      "q": "Which 2006 The Fray single asked you ‘where did I go wrong’?",
-      "choices": ["How to Save a Life", "Over My Head (Cable Car)", "You Found Me", "Never Say Never"],
+      "q": "Who sang “Rolling in the Deep”?",
+      "choices": ["Adele", "Amy Winehouse", "Florence Welch", "Duffy"],
       "correctIndex": 0,
-      "fact": "It took off after appearing on “Grey’s Anatomy.”"
+      "image": "adele.png"
     },
     {
-      "q": "Which 2003 Evanescence piano ballad haunted every high-school talent show?",
-      "choices": ["My Immortal", "Lithium", "Everybody’s Fool", "Good Enough"],
+      "q": "Which group released “Survivor”?",
+      "choices": ["Destiny’s Child", "TLC", "En Vogue", "Salt-N-Pepa"],
       "correctIndex": 0,
-      "fact": "The single version uses a different mix from the album—more strings, less band."
-    },
-    {
-      "q": "Which 2004 Usher breakup ballad followed the party hit?",
-      "choices": ["Yeah!", "Confessions Part II", "Burn", "My Boo"],
-      "correctIndex": 2,
-      "fact": "“Burn” and “Yeah!” tag-teamed at No.1 for months."
-    },
-    {
-      "q": "Which 2012 Rihanna single found love ‘in a hopeless place’?",
-      "choices": ["Stay", "We Found Love", "Diamonds", "Only Girl (In the World)"],
-      "correctIndex": 1,
-      "fact": "Shot in Northern Ireland, the video stirred local headlines over a topless scene."
-    },
-    {
-      "q": "Which 2010 Ke$ha single rhymed ‘P-Diddy’ with brushing teeth?",
-      "choices": ["Your Love Is My Drug", "We R Who We R", "Tik Tok", "Take It Off"],
-      "correctIndex": 2,
-      "fact": "Diddy cameo’d in the video—pop culture eating itself."
+      "image": "destinys_child.png"
     },
     {
-      "q": "Which 2009 Lady Gaga & Beyoncé collab turned a diner into a crime scene?",
-      "choices": ["Telephone", "Videophone", "Alejandro", "LoveGame"],
+      "q": "Who sang “Complicated”?",
+      "choices": ["Avril Lavigne", "Michelle Branch", "Vanessa Carlton", "Pink"],
       "correctIndex": 0,
-      "fact": "Directed by Jonas Åkerlund, it was basically a mini-movie."
-    },
-    {
-      "q": "Which 2013 Katy Perry single asked if you ever felt like a plastic bag?",
-      "choices": ["Roar", "Firework", "Unconditionally", "Birthday"],
-      "correctIndex": 1,
-      "fact": "The sparkler-from-chest imagery became a pop-culture meme."
+      "image": "avril_lavigne.png"
     },
     {
-      "q": "Which 2014 Iggy Azalea hit recreated ‘Clueless’ in the video?",
-      "choices": ["Black Widow", "Fancy", "Work", "Problem"],
-      "correctIndex": 1,
-      "fact": "Charli XCX’s hook sealed the deal; schoolgirl yellow plaid forever."
-    },
-    {
-      "q": "Which 2007 Rihanna & Ne-Yo duet asked who owns the umbrella, ella, ella?",
-      "choices": ["Hate That I Love You", "Umbrella", "Love on the Brain", "Shut Up and Drive"],
+      "q": "Which artist released “Hips Don’t Lie”?",
+      "choices": ["Shakira", "Jennifer Lopez", "Beyoncé", "Rihanna"],
       "correctIndex": 0,
-      "fact": "A softer side during the ‘Good Girl Gone Bad’ era."
-    },
-    {
-      "q": "Which 2008 Coldplay single had a Spanish title and ringing guitar line?",
-      "choices": ["Clocks", "Speed of Sound", "Viva la Vida", "Fix You"],
-      "correctIndex": 2,
-      "fact": "They faced a plagiarism claim; the case was later dropped."
-    },
-    {
-      "q": "Which 2011 LMFAO song teamed with Lauren Bennett and GoonRock?",
-      "choices": ["Sexy and I Know It", "Party Rock Anthem", "Shots", "Yes"],
-      "correctIndex": 1,
-      "fact": "The video’s shuffle flash mob became 2011’s defining dance."
+      "image": "shakira.png"
     },
     {
-      "q": "Which 2010 Far East Movement track hit No.1 with a G6 reference?",
-      "choices": ["Like a G6", "Rocketeer", "If I Was You (OMG)", "Turn Up the Love"],
+      "q": "Who sang “Bleeding Love”?",
+      "choices": ["Leona Lewis", "Kelly Clarkson", "Adele", "Jordin Sparks"],
       "correctIndex": 0,
-      "fact": "‘G6’ refers to a Gulfstream jet—luxury metaphor unlocked."
+      "image": "leona_lewis.png"
     },
     {
-      "q": "Which 2010 Enrique Iglesias single had a not-radio-friendly uncensored title?",
-      "choices": ["I Like It", "Tonight (I’m Lovin’ You)", "Dirty Dancer", "Bailamos"],
-      "correctIndex": 1,
-      "fact": "The clean version used ‘Lovin’’; the other one…didn’t."
-    },
-    {
-      "q": "Which 2013 Lorde follow-up asserted ‘We live in cities you’ll never see on screen’?",
-      "choices": ["Team", "Tennis Court", "Glory and Gore", "Buzzcut Season"],
+      "q": "Which group released “Don’t Cha”?",
+      "choices": ["Pussycat Dolls", "Destiny’s Child", "TLC", "En Vogue"],
       "correctIndex": 0,
-      "fact": "It doubled down on her anti-glamour persona."
-    },
-    {
-      "q": "Which 2008 Pink single told you to raise your glass if you are wrong in all the right ways?",
-      "choices": ["So What", "Raise Your Glass", "F**kin' Perfect", "Who Knew"],
-      "correctIndex": 1,
-      "fact": "Celebration of misfits became Pink’s signature message."
-    },
-    {
-      "q": "Which 2015 Major Lazer & DJ Snake track made everyone try the lean-back dance?",
-      "choices": ["Cold Water", "Lean On", "Light It Up", "Powerful"],
-      "correctIndex": 1,
-      "fact": "MØ’s vocal helped globalize the tropical-house vibe."
-    },
-    {
-      "q": "Which 2011 Britney Spears single soundtracked about a million clubs ‘till the world ends’?",
-      "choices": ["Hold It Against Me", "Till the World Ends", "I Wanna Go", "3"],
-      "correctIndex": 1,
-      "fact": "Ke$ha co-wrote it; the remix added Nicki Minaj for extra chaos."
+      "image": "pussycat_dolls.png"
     },
     {
-      "q": "Which 2004 Usher & Alicia Keys duet told a story of lingering love?",
-      "choices": ["My Boo", "Confessions Part II", "Burn", "U Got It Bad"],
+      "q": "Who sang “Hot N Cold”?",
+      "choices": ["Katy Perry", "Lady Gaga", "Avril Lavigne", "Pink"],
       "correctIndex": 0,
-      "fact": "It became a couples’ skate staple overnight."
+      "image": "katy_perry.png"
     },
     {
-      "q": "Which 2002 Avril Lavigne single asked why you gotta make things so complicated?",
-      "choices": ["Complicated", "I’m with You", "My Happy Ending", "Sk8er Boi"],
+      "q": "Which artist released “Bad Romance”?",
+      "choices": ["Lady Gaga", "Katy Perry", "Rihanna", "Beyoncé"],
       "correctIndex": 0,
-      "fact": "Shot in a mall and skatepark—teenage time capsule."
-    },
-    {
-      "q": "Which 2013 Beyoncé surprise album single asked ladies to ‘bow down’?",
-      "choices": ["Formation", "***Flawless", "Drunk in Love", "Partition"],
-      "correctIndex": 1,
-      "fact": "The surprise drop rewired how pop stars release albums."
+      "image": "lady_gaga.png"
     },
     {
-      "q": "Which 2014 Tove Lo single was brutally honest about coping after a breakup?",
-      "choices": ["Habits (Stay High)", "Talking Body", "Moments", "Cool Girl"],
+      "q": "Who sang “If I Ain’t Got You”?",
+      "choices": ["Alicia Keys", "Beyoncé", "Mary J. Blige", "Rihanna"],
       "correctIndex": 0,
-      "fact": "The moody video and blunt lyrics made it a sleeper-hit crossover."
+      "image": "alicia_keys.png"
     },
     {
-      "q": "Which 2009 Jay Sean single asked if you were down, down, down, down, down?",
-      "choices": ["Ride It", "Down", "Do You Remember", "Hit the Lights"],
-      "correctIndex": 1,
-      "fact": "It was the first No.1 by a UK urban artist in the U.S. in years."
-    },
-    {
-      "q": "Which 2008 Lady Antebellum (Lady A) song crossed to pop radio?",
-      "choices": ["Need You Now", "I Run to You", "Just a Kiss", "American Honey"],
-      "correctIndex": 1,
-      "fact": "It paved the way for their massive “Need You Now.”"
-    },
-    {
-      "q": "Which 2010 Ke$ha track told you to ‘blow’ glitter at the haters?",
-      "choices": ["Your Love Is My Drug", "Take It Off", "Blow", "Die Young"],
-      "correctIndex": 2,
-      "fact": "The video features James Van Der Beek in a laser-tag showdown."
-    },
-    {
-      "q": "Which 2003 Justin Timberlake single introduced the clipped-funk sound with The Neptunes?",
-      "choices": ["Cry Me a River", "Rock Your Body", "SexyBack", "Like I Love You"],
-      "correctIndex": 3,
-      "fact": "Pharrell & Chad (The Neptunes) defined early JT’s solo sound."
-    },
-    {
-      "q": "Which 2004 Kelly Clarkson single let a car alarm be percussion in the video?",
-      "choices": ["Breakaway", "Behind These Hazel Eyes", "Because of You", "Since U Been Gone"],
-      "correctIndex": 1,
-      "fact": "She smashes a wedding cake—and a few expectations."
-    },
-    {
-      "q": "Which 2011 Rihanna ballad with Mikky Ekko said ‘stay’?",
-      "choices": ["Love on the Brain", "Unfaithful", "Stay", "Take a Bow"],
-      "correctIndex": 2,
-      "fact": "Performed at the Grammys with minimal staging—goosebumps."
-    },
-    {
-      "q": "Which 2015 Justin Bieber song told haters to, well, go love themselves?",
-      "choices": ["Sorry", "Love Yourself", "Company", "What Do You Mean?"],
-      "correctIndex": 1,
-      "fact": "Ed Sheeran co-wrote it; the acoustic arrangement cut deep."
-    },
-    {
-      "q": "Which 2000s country-pop star declared ‘That’s the way it is’—actually Celine; the country star?",
-      "choices": ["Faith Hill", "Shania Twain", "LeAnn Rimes", "Carrie Underwood"],
-      "correctIndex": 3,
-      "fact": "Underwood launched from American Idol straight into country royalty."
-    },
-    {
-      "q": "Which 2011 LMFAO lyric promised every day they’re shufflin’?",
-      "choices": ["Party Rock Anthem", "Shots", "Yes", "Sorry for Party Rocking"],
+      "q": "Which group released “No Scrubs”?",
+      "choices": ["TLC", "Destiny’s Child", "En Vogue", "Salt-N-Pepa"],
       "correctIndex": 0,
-      "fact": "Yes, we know you already answered this—consider it a speed round!"
-    },
-    {
-      "q": "Which 2012 Taylor Swift song told a guy they are never ever getting back together?",
-      "choices": ["22", "We Are Never Ever Getting Back Together", "I Knew You Were Trouble", "Red"],
-      "correctIndex": 1,
-      "fact": "Max Martin helped craft the chanty pop hook—stadium-ready."
-    },
-    {
-      "q": "Which 2001 Britney Spears single covered a Joan Jett classic?",
-      "choices": ["Stronger", "I Love Rock ’n’ Roll", "Overprotected", "Lucky"],
-      "correctIndex": 1,
-      "fact": "Recorded for her film ‘Crossroads’—a fun karaoke staple."
-    },
-    {
-      "q": "Which 2015 Major Lazer track with MØ told you to ‘lean on’ a friend?",
-      "choices": ["Cold Water", "Lean On", "Powerful", "Light It Up"],
-      "correctIndex": 1,
-      "fact": "One of Spotify’s most streamed songs of the decade."
-    },
-    {
-      "q": "Which 2011 Adele song set fire to what, exactly?",
-      "choices": ["Set Fire to the Night", "Set Fire to the Rain", "Set Fire to the Sky", "Set Fire to the Room"],
-      "correctIndex": 1,
-      "fact": "The title came from a misheard phrase in a relationship argument."
+      "image": "tlc.png"
     },
     {
-      "q": "Which 2012 Karmin duo started on YouTube before popping off with this single?",
-      "choices": ["Brokenhearted", "Acapella", "Hello", "I Want It All"],
+      "q": "Who sang “Beautiful”?",
+      "choices": ["Christina Aguilera", "Britney Spears", "Pink", "Kelly Clarkson"],
       "correctIndex": 0,
-      "fact": "Their Busta Rhymes cover went viral; this original sealed the deal."
-    },
-    {
-      "q": "Which 2003 Sean Paul single yells ‘just gimme the light’—nope, which one kept it temperature-rising?",
-      "choices": ["Gimme the Light", "Get Busy", "Temperature", "Like Glue"],
-      "correctIndex": 1,
-      "fact": "Dancehall’s biggest U.S. pop moment of the early 2000s."
-    },
-    {
-      "q": "Which 2012 P!nk & Nate Ruess duet begged you to try just a little harder?",
-      "choices": ["Try", "Just Give Me a Reason", "True Love", "Blow Me (One Last Kiss)"],
-      "correctIndex": 1,
-      "fact": "Nate’s theatre-kid tone blended surprisingly well with Pink’s grit."
-    },
-    {
-      "q": "Which 2010 CeeLo Green single had a very unfriendly title in its uncensored form?",
-      "choices": ["Bright Lights Bigger City", "Crazy", "Forget You", "Fool for You"],
-      "correctIndex": 2,
-      "fact": "The Motown-style radio version was titled “Forget You.”"
+      "image": "christina_aguilera.png"
     },
     {
-      "q": "Which 2004 Maroon 5 single insisted ‘she will’—what?",
-      "choices": ["Be Loved", "Be Loved (Tonight)", "Be Mine", "Return"],
+      "q": "Which artist released “Rehab”?",
+      "choices": ["Amy Winehouse", "Adele", "Duffy", "Leona Lewis"],
       "correctIndex": 0,
-      "fact": "Adam Levine wrote much of the album about an ex named Jane."
-    },
-    {
-      "q": "Which 2014 Clean Bandit track mixed classical strings and house beats?",
-      "choices": ["Symphony", "Rather Be", "Rockabye", "Real Love"],
-      "correctIndex": 1,
-      "fact": "Jess Glynne’s vocal and the hooky violin riff made it a global smash."
-    },
-    {
-      "q": "Which 2011 Rebecca Black viral hit taught us about seat choice etiquette?",
-      "choices": ["Saturday", "Friday", "My Moment", "Sing It"],
-      "correctIndex": 1,
-      "fact": "Its notoriety turned into a career—she later reinvented her sound."
-    },
-    {
-      "q": "Which 2008 Beyoncé ballad said ‘remember those walls I built’?",
-      "choices": ["Irreplaceable", "Halo", "If I Were a Boy", "Listen"],
-      "correctIndex": 1,
-      "fact": "Ryan Tedder co-wrote; it became a wedding staple overnight."
-    },
-    {
-      "q": "Which 2014 Ariana Grande & Zedd collab was a pure EDM lift-off?",
-      "choices": ["Problem", "Break Free", "Love Me Harder", "Into You"],
-      "correctIndex": 1,
-      "fact": "Her whistle notes + Zedd’s drop = festival-pop perfection."
+      "image": "rehab.png"
     },
     {
-      "q": "Which 2004 J-Kwon hit celebrated turning 17 at the club (somehow)?",
-      "choices": ["Tipsy", "Get XXX’d", "Hood Hop", "You & Me"],
+      "q": "Who sang “Unwritten”?",
+      "choices": ["Natasha Bedingfield", "Sara Bareilles", "Colbie Caillat", "Vanessa Carlton"],
       "correctIndex": 0,
-      "fact": "Teenage party anthem that radio couldn’t resist."
-    },
-    {
-      "q": "Which 2001 Blu Cantrell revenge song said ‘oops’ after maxing out cards?",
-      "choices": ["Make Me Wanna Scream", "Hit ’Em Up Style (Oops!)", "Breathe", "I’ll Find a Way"],
-      "correctIndex": 1,
-      "fact": "Co-written by Dallas Austin—an Atlanta hit machine."
-    },
-    {
-      "q": "Which 2010 Ke$ha song insisted we R who we R?",
-      "choices": ["Die Young", "We R Who We R", "Blow", "Tik Tok"],
-      "correctIndex": 1,
-      "fact": "An empowerment response to bullying headlines at the time."
-    },
-    {
-      "q": "Which 2003 Beyoncé & Jay-Z duet had pink furs and rooftop romance?",
-      "choices": ["Crazy in Love", "’03 Bonnie & Clyde", "Drunk in Love", "Upgrade U"],
-      "correctIndex": 1,
-      "fact": "It set the stage for their on-record chemistry."
+      "image": "natasha_bedingfield.png"
     },
     {
-      "q": "Which 2011 Rihanna single declared diamonds in the sky?",
-      "choices": ["Diamonds", "Stay", "Where Have You Been", "What Now"],
+      "q": "Which group released “Say My Name”?",
+      "choices": ["Destiny’s Child", "TLC", "En Vogue", "Salt-N-Pepa"],
       "correctIndex": 0,
-      "fact": "Sia wrote the melody and lyrics in about 14 minutes."
+      "image": "destinys_child.png"
     },
     {
-      "q": "Which 1998 Monica & Brandy duet settled a disagreement over a certain boy?",
-      "choices": ["The Boy Is Mine", "Have You Ever?", "Angel of Mine", "Almost Doesn’t Count"],
+      "q": "Who sang “A Moment Like This”?",
+      "choices": ["Kelly Clarkson", "Carrie Underwood", "Leona Lewis", "Jordin Sparks"],
       "correctIndex": 0,
-      "fact": "Inspired by the TV show “The Jerry Springer Show,” according to the writers."
-    },
-    {
-      "q": "Which 2007 Colbie Caillat follow-up reminded you to realize what you’ve got?",
-      "choices": ["Bubbly", "Realize", "Brighter Than the Sun", "Try"],
-      "correctIndex": 1,
-      "fact": "Her dad, Ken Caillat, co-produced Fleetwood Mac’s “Rumours.”"
-    },
-    {
-      "q": "Which 2014 Hozier song took you to church without ever leaving the radio?",
-      "choices": ["From Eden", "Take Me to Church", "Work Song", "Someone New"],
-      "correctIndex": 1,
-      "fact": "The powerful video protested anti-LGBTQ violence."
-    },
-    {
-      "q": "Which 2015 Selena Gomez single said the heart wants what it wants?",
-      "choices": ["Same Old Love", "Good for You", "The Heart Wants What It Wants", "Hands to Myself"],
-      "correctIndex": 2,
-      "fact": "She introduced a more mature sound with a confessional monologue."
-    },
-    {
-      "q": "Which 2012 Fun. single asked ‘what do I stand for?’",
-      "choices": ["Carry On", "Some Nights", "We Are Young", "All the Pretty Girls"],
-      "correctIndex": 1,
-      "fact": "Queen-style harmonies with indie-pop angst—very 2012."
-    },
-    {
-      "q": "Which 2014 Ed Sheeran single described a girl in a club who was ‘perfect’?",
-      "choices": ["Thinking Out Loud", "Sing", "Don’t", "Shape of You"],
-      "correctIndex": 3,
-      "fact": "Originally written for Rihanna—then he kept it."
-    },
-    {
-      "q": "Which 2011 LMFAO song featured Redfoo and SkyBlu as robot-headed party crashers?",
-      "choices": ["Champagne Showers", "Sexy and I Know It", "Party Rock Anthem", "Sorry for Party Rocking"],
-      "correctIndex": 3,
-      "fact": "The meta apology for being…LMFAO."
-    },
-    {
-      "q": "Which 2007 T-Pain & Akon auto-tuned collab stuck like glue?",
-      "choices": ["Buy U a Drank", "Bartender", "Blame It", "I’m So Paid"],
-      "correctIndex": 1,
-      "fact": "T-Pain’s Auto-Tune artistry influenced a generation."
-    },
-    {
-      "q": "Which 2001 Ashanti hook queen status started with this Ja Rule duet?",
-      "choices": ["Mesmerize", "Always on Time", "Wonderful", "Down 4 U"],
-      "correctIndex": 1,
-      "fact": "Her silky tone became Murder Inc’s secret weapon."
-    },
-    {
-      "q": "Which 2012 Taylor Swift song joked we are never, ever getting back together—yep, but which album?",
-      "choices": ["1989", "Red", "Speak Now", "Fearless"],
-      "correctIndex": 1,
-      "fact": "“Red” was the hinge between country roots and full pop."
-    },
-    {
-      "q": "Which 2009 Jay-Z, Rihanna & Kanye collab ran this town tonight?",
-      "choices": ["Empire State of Mind", "Run This Town", "Forever", "No Church in the Wild"],
-      "correctIndex": 1,
-      "fact": "The dystopian video prefigured the Watch the Throne aesthetic."
-    },
-    {
-      "q": "Which 2006 Christina Aguilera album time-traveled to jazz and soul?",
-      "choices": ["Stripped", "Back to Basics", "Bionic", "Lotus"],
-      "correctIndex": 1,
-      "fact": "DJ Premier even produced; the throwback concept really committed."
+      "image": "a_moment_like_this.png"
     }
   ]
+
 }
+
+
+  
+
+
+
+    

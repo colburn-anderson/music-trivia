@@ -489,7 +489,7 @@
   <!-- Brand: PILL with your logo -->
   <div class="brand brand--pill" aria-label="Logo">
     <div class="brand-shape">
-      <img src="img/bingoBeatzLogo.png" alt="Bingo Beatz Logo" />
+  <img class="logo-img" src="img/bingoBeatzLogo.png" alt="Bingo Beatz Logo" />
     </div>
     <!-- (no "Music Trivia" text per your request) -->
   </div>
@@ -518,6 +518,9 @@
           <img class="qrimg" src="img/qr.png" alt="QR to our socials" />
           <div class="qrlabel">Follow us to win todays prize!</div>
         </div>
+      </div>
+      <!-- Spacer to push content below QR/logo -->
+      <div style="height: 120px; width: 100%;"></div>
         <!-- Timer is fixed to bottom-left via CSS -->
         <div class="timer" id="timer">Ready</div>
       </div>
@@ -536,9 +539,8 @@
       <div class="apanel">
         <h2 class="answer-title" id="answerTitle">Correct Answer</h2>
       </div>
-      <div class="factpanel">
-        <p class="factlabel">Fun fact</p>
-        <p class="answer-fact" id="answerFact">Fun fact goes here.</p>
+  <div class="answer-image-panel" id="answerImagePanel">
+        <!-- Image will be injected here -->
       </div>
     </section>
   </main>

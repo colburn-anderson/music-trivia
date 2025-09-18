@@ -44,8 +44,9 @@
     aPage       = $("aPage")   || $("pageA");
     questionEl  = $("question");
     answersWrap = $("answers");
-    answerTitle = $("answerTitle");
-    answerFact  = $("answerFact");
+  answerTitle = $("answerTitle");
+  // Remove answerFact, add answerImagePanel
+  answerImagePanel = $("answerImagePanel");
     overlay     = $("overlay");
     startBtn    = $("startBtn");
     topTimer    = $("timer");
@@ -215,7 +216,28 @@
 
   function renderAnswerLayout(item){
     if(answerTitle) answerTitle.textContent = item.options[item.correct];
-    if(answerFact)  answerFact.textContent  = item.fact || "";
+    // Remove fun fact, show image
+    if(answerImagePanel) {
+      answerImagePanel.innerHTML = "";
+      const answerText = item.options[item.correct];
+      const imgFile = answerText.toLowerCase().replace(/[^a-z0-9]/g, '_') + '.png';
+      const img = document.createElement('img');
+      img.src = `img/${imgFile}`;
+      img.alt = answerText;
+      img.className = "slideshow-img";
+      img.onerror = function(){ img.style.display = 'none'; };
+      img.onload = function() {
+        // Get available space below answer
+        const panel = answerImagePanel.parentElement;
+        const panelRect = panel.getBoundingClientRect();
+        const answerRect = panel.querySelector('.answer-title').getBoundingClientRect();
+        const availableHeight = panelRect.bottom - answerRect.bottom - 32; // 32px margin
+        // Scale image to fit available space
+        img.style.maxHeight = Math.max(120, Math.min(availableHeight, window.innerHeight * 0.48)) + 'px';
+        img.style.maxWidth = Math.min(panelRect.width * 0.96, window.innerWidth * 0.92, img.naturalWidth) + 'px';
+      };
+      answerImagePanel.appendChild(img);
+    }
 
     fitSoon("a");
   }
@@ -251,7 +273,7 @@
     const item = QUESTIONS[i];
     if(answersWrap) answersWrap.classList.add("reveal"); // dim wrong, keep correct bright
 
-    renderAnswerLayout(item);
+  renderAnswerLayout(item);
 
     if(qPage){ qPage.classList.add("hidden"); }
     if(aPage){ aPage.classList.remove("hidden"); }
