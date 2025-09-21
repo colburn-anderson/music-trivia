@@ -1,193 +1,1324 @@
 {
   "questions": [
-    
     {
       "q": "Who sang “Girls Just Want to Have Fun”?",
-      "choices": ["Belinda Carlisle", "Madonna", "Debbie Gibson", "Cyndi Lauper"],
+      "choices": [
+        "Belinda Carlisle",
+        "Madonna",
+        "Debbie Gibson",
+        "Cyndi Lauper"
+      ],
       "correctIndex": 3,
       "image": "cyndi_lauper.png"
     },
     {
       "q": "Who sang “Like a Prayer”?",
-      "choices": ["Cyndi Lauper", "Paula Abdul", "Madonna", "Whitney Houston"],
+      "choices": [
+        "Cyndi Lauper",
+        "Paula Abdul",
+        "Madonna",
+        "Whitney Houston"
+      ],
       "correctIndex": 2,
       "image": "madonna.png"
     },
     {
       "q": "Which group released the 90s hit “Waterfalls”?",
-      "choices": ["En Vogue", "Destiny’s Child", "TLC", "Salt-N-Pepa"],
+      "choices": [
+        "En Vogue",
+        "Destiny’s Child",
+        "TLC",
+        "Salt-N-Pepa"
+      ],
       "correctIndex": 2,
       "image": "tlc.png"
     },
     {
       "q": "“…Baby One More Time” made which star a teen pop phenomenon?",
-      "choices": ["Christina Aguilera", "Britney Spears", "Mandy Moore", "Jessica Simpson"],
+      "choices": [
+        "Christina Aguilera",
+        "Britney Spears",
+        "Mandy Moore",
+        "Jessica Simpson"
+      ],
       "correctIndex": 1,
       "image": "britney_spears.png"
     },
     {
       "q": "Which 2007 Amy Winehouse single became a retro-soul anthem?",
-      "choices": ["Rehab", "Valerie", "Back to Black", "You Know I’m No Good"],
+      "choices": [
+        "Rehab",
+        "Valerie",
+        "Back to Black",
+        "You Know I’m No Good"
+      ],
       "correctIndex": 0,
       "image": "rehab.png"
     },
     {
       "q": "Who sang “I Will Always Love You” for The Bodyguard soundtrack?",
-      "choices": ["Mariah Carey", "Whitney Houston", "Celine Dion", "Toni Braxton"],
+      "choices": [
+        "Mariah Carey",
+        "Whitney Houston",
+        "Celine Dion",
+        "Toni Braxton"
+      ],
       "correctIndex": 1,
       "image": "whitney_houston.png"
     },
     {
       "q": "Which boy band released “I Want It That Way”?",
-      "choices": ["NSYNC", "Backstreet Boys", "98 Degrees", "O-Town"],
+      "choices": [
+        "NSYNC",
+        "Backstreet Boys",
+        "98 Degrees",
+        "O-Town"
+      ],
       "correctIndex": 1,
       "image": "backstreet_boys.png"
     },
     {
       "q": "Who sang “Genie in a Bottle”?",
-      "choices": ["Britney Spears", "Jessica Simpson", "Christina Aguilera", "Mandy Moore"],
+      "choices": [
+        "Britney Spears",
+        "Jessica Simpson",
+        "Christina Aguilera",
+        "Mandy Moore"
+      ],
       "correctIndex": 2,
       "image": "christina_aguilera.png"
     },
     {
       "q": "Which group had a hit with “Wannabe”?",
-      "choices": ["Spice Girls", "All Saints", "B*Witched", "Atomic Kitten"],
+      "choices": [
+        "Spice Girls",
+        "All Saints",
+        "B*Witched",
+        "Atomic Kitten"
+      ],
       "correctIndex": 0,
       "image": "spice_girls.png"
     },
     {
       "q": "Who sang “Umbrella” featuring Jay-Z?",
-      "choices": ["Rihanna", "Beyoncé", "Alicia Keys", "Ciara"],
+      "choices": [
+        "Rihanna",
+        "Beyoncé",
+        "Alicia Keys",
+        "Ciara"
+      ],
       "correctIndex": 0,
       "image": "rihanna.png"
     },
     {
       "q": "Which artist released “Poker Face”?",
-      "choices": ["Lady Gaga", "Katy Perry", "Pink", "Avril Lavigne"],
+      "choices": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Pink",
+        "Avril Lavigne"
+      ],
       "correctIndex": 0,
       "image": "lady_gaga.png"
     },
     {
       "q": "Who sang “Since U Been Gone”?",
-      "choices": ["Kelly Clarkson", "Carrie Underwood", "Leona Lewis", "Jordin Sparks"],
+      "choices": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Leona Lewis",
+        "Jordin Sparks"
+      ],
       "correctIndex": 0,
       "image": "kelly_clarkson.png"
     },
     {
       "q": "Which group released “Bye Bye Bye”?",
-      "choices": ["Backstreet Boys", "NSYNC", "Westlife", "Take That"],
+      "choices": [
+        "Backstreet Boys",
+        "NSYNC",
+        "Westlife",
+        "Take That"
+      ],
       "correctIndex": 1,
       "image": "nsync.png"
     },
     {
       "q": "Who sang “Toxic”?",
-      "choices": ["Britney Spears", "Christina Aguilera", "Jessica Simpson", "Pink"],
+      "choices": [
+        "Britney Spears",
+        "Christina Aguilera",
+        "Jessica Simpson",
+        "Pink"
+      ],
       "correctIndex": 0,
       "image": "toxic.png"
     },
     {
       "q": "Which artist released “Firework”?",
-      "choices": ["Katy Perry", "Lady Gaga", "Rihanna", "Adele"],
+      "choices": [
+        "Katy Perry",
+        "Lady Gaga",
+        "Rihanna",
+        "Adele"
+      ],
       "correctIndex": 0,
       "image": "katy_perry.png"
     },
     {
       "q": "Who sang “Rolling in the Deep”?",
-      "choices": ["Adele", "Amy Winehouse", "Florence Welch", "Duffy"],
+      "choices": [
+        "Adele",
+        "Amy Winehouse",
+        "Florence Welch",
+        "Duffy"
+      ],
       "correctIndex": 0,
       "image": "adele.png"
     },
     {
       "q": "Which group released “Survivor”?",
-      "choices": ["Destiny’s Child", "TLC", "En Vogue", "Salt-N-Pepa"],
+      "choices": [
+        "Destiny’s Child",
+        "TLC",
+        "En Vogue",
+        "Salt-N-Pepa"
+      ],
       "correctIndex": 0,
       "image": "destinys_child.png"
     },
     {
       "q": "Who sang “Complicated”?",
-      "choices": ["Avril Lavigne", "Michelle Branch", "Vanessa Carlton", "Pink"],
+      "choices": [
+        "Avril Lavigne",
+        "Michelle Branch",
+        "Vanessa Carlton",
+        "Pink"
+      ],
       "correctIndex": 0,
       "image": "avril_lavigne.png"
     },
     {
       "q": "Which artist released “Hips Don’t Lie”?",
-      "choices": ["Shakira", "Jennifer Lopez", "Beyoncé", "Rihanna"],
+      "choices": [
+        "Shakira",
+        "Jennifer Lopez",
+        "Beyoncé",
+        "Rihanna"
+      ],
       "correctIndex": 0,
       "image": "shakira.png"
     },
     {
       "q": "Who sang “Bleeding Love”?",
-      "choices": ["Leona Lewis", "Kelly Clarkson", "Adele", "Jordin Sparks"],
+      "choices": [
+        "Leona Lewis",
+        "Kelly Clarkson",
+        "Adele",
+        "Jordin Sparks"
+      ],
       "correctIndex": 0,
       "image": "leona_lewis.png"
     },
     {
       "q": "Which group released “Don’t Cha”?",
-      "choices": ["Pussycat Dolls", "Destiny’s Child", "TLC", "En Vogue"],
+      "choices": [
+        "Pussycat Dolls",
+        "Destiny’s Child",
+        "TLC",
+        "En Vogue"
+      ],
       "correctIndex": 0,
       "image": "pussycat_dolls.png"
     },
     {
       "q": "Who sang “Hot N Cold”?",
-      "choices": ["Katy Perry", "Lady Gaga", "Avril Lavigne", "Pink"],
+      "choices": [
+        "Katy Perry",
+        "Lady Gaga",
+        "Avril Lavigne",
+        "Pink"
+      ],
       "correctIndex": 0,
       "image": "katy_perry.png"
     },
     {
       "q": "Which artist released “Bad Romance”?",
-      "choices": ["Lady Gaga", "Katy Perry", "Rihanna", "Beyoncé"],
+      "choices": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Rihanna",
+        "Beyoncé"
+      ],
       "correctIndex": 0,
       "image": "lady_gaga.png"
     },
     {
       "q": "Who sang “If I Ain’t Got You”?",
-      "choices": ["Alicia Keys", "Beyoncé", "Mary J. Blige", "Rihanna"],
+      "choices": [
+        "Alicia Keys",
+        "Beyoncé",
+        "Mary J. Blige",
+        "Rihanna"
+      ],
       "correctIndex": 0,
       "image": "alicia_keys.png"
     },
     {
       "q": "Which group released “No Scrubs”?",
-      "choices": ["TLC", "Destiny’s Child", "En Vogue", "Salt-N-Pepa"],
+      "choices": [
+        "TLC",
+        "Destiny’s Child",
+        "En Vogue",
+        "Salt-N-Pepa"
+      ],
       "correctIndex": 0,
       "image": "tlc.png"
     },
     {
       "q": "Who sang “Beautiful”?",
-      "choices": ["Christina Aguilera", "Britney Spears", "Pink", "Kelly Clarkson"],
+      "choices": [
+        "Christina Aguilera",
+        "Britney Spears",
+        "Pink",
+        "Kelly Clarkson"
+      ],
       "correctIndex": 0,
       "image": "christina_aguilera.png"
     },
     {
       "q": "Which artist released “Rehab”?",
-      "choices": ["Amy Winehouse", "Adele", "Duffy", "Leona Lewis"],
+      "choices": [
+        "Amy Winehouse",
+        "Adele",
+        "Duffy",
+        "Leona Lewis"
+      ],
       "correctIndex": 0,
       "image": "rehab.png"
     },
     {
       "q": "Who sang “Unwritten”?",
-      "choices": ["Natasha Bedingfield", "Sara Bareilles", "Colbie Caillat", "Vanessa Carlton"],
+      "choices": [
+        "Natasha Bedingfield",
+        "Sara Bareilles",
+        "Colbie Caillat",
+        "Vanessa Carlton"
+      ],
       "correctIndex": 0,
       "image": "natasha_bedingfield.png"
     },
     {
       "q": "Which group released “Say My Name”?",
-      "choices": ["Destiny’s Child", "TLC", "En Vogue", "Salt-N-Pepa"],
+      "choices": [
+        "Destiny’s Child",
+        "TLC",
+        "En Vogue",
+        "Salt-N-Pepa"
+      ],
       "correctIndex": 0,
       "image": "destinys_child.png"
     },
     {
       "q": "Who sang “A Moment Like This”?",
-      "choices": ["Kelly Clarkson", "Carrie Underwood", "Leona Lewis", "Jordin Sparks"],
+      "choices": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Leona Lewis",
+        "Jordin Sparks"
+      ],
       "correctIndex": 0,
       "image": "a_moment_like_this.png"
+    },
+    {
+      "q": "Who sang “Billie Jean”?",
+      "choices": [
+        "Prince",
+        "Michael Jackson",
+        "George Michael",
+        "Lionel Richie"
+      ],
+      "correctIndex": 1,
+      "image": "michael_jackson.png"
+    },
+    {
+      "q": "Who sang “Like a Virgin”?",
+      "choices": [
+        "Madonna",
+        "Cyndi Lauper",
+        "Paula Abdul",
+        "Belinda Carlisle"
+      ],
+      "correctIndex": 0,
+      "image": "madonna.png"
+    },
+    {
+      "q": "Which band released “Sweet Child O’ Mine”?",
+      "choices": [
+        "Aerosmith",
+        "Bon Jovi",
+        "Guns N’ Roses",
+        "Def Leppard"
+      ],
+      "correctIndex": 2,
+      "image": "guns_n_roses.png"
+    },
+    {
+      "q": "Which group sang “Don’t Stop Believin’”?",
+      "choices": [
+        "Journey",
+        "REO Speedwagon",
+        "Foreigner",
+        "Boston"
+      ],
+      "correctIndex": 0,
+      "image": "journey.png"
+    },
+    {
+      "q": "Who sang “I Wanna Dance with Somebody”?",
+      "choices": [
+        "Whitney Houston",
+        "Janet Jackson",
+        "Celine Dion",
+        "Tina Turner"
+      ],
+      "correctIndex": 0,
+      "image": "whitney_houston.png"
+    },
+    {
+      "q": "Which group released “Everybody (Backstreet’s Back)”?",
+      "choices": [
+        "Backstreet Boys",
+        "NSYNC",
+        "98 Degrees",
+        "O-Town"
+      ],
+      "correctIndex": 0,
+      "image": "backstreet_boys.png"
+    },
+    {
+      "q": "Who sang “Oops!… I Did It Again”?",
+      "choices": [
+        "Jessica Simpson",
+        "Britney Spears",
+        "Christina Aguilera",
+        "Mandy Moore"
+      ],
+      "correctIndex": 1,
+      "image": "britney_spears.png"
+    },
+    {
+      "q": "Who sang “Ironic”?",
+      "choices": [
+        "Alanis Morissette",
+        "Sheryl Crow",
+        "Fiona Apple",
+        "Jewel"
+      ],
+      "correctIndex": 0,
+      "image": "alanis_morissette.png"
+    },
+    {
+      "q": "Which group released “MMMBop”?",
+      "choices": [
+        "BBMak",
+        "Hanson",
+        "B*Witched",
+        "5ive"
+      ],
+      "correctIndex": 1,
+      "image": "hanson.png"
+    },
+    {
+      "q": "Who sang “My Heart Will Go On”?",
+      "choices": [
+        "Celine Dion",
+        "Whitney Houston",
+        "Mariah Carey",
+        "Shania Twain"
+      ],
+      "correctIndex": 0,
+      "image": "celine_dion.png"
+    },
+    {
+      "q": "Which duo sang “No Air”?",
+      "choices": [
+        "Jordin Sparks & Chris Brown",
+        "Beyoncé & Jay-Z",
+        "Rihanna & Drake",
+        "Alicia Keys & Usher"
+      ],
+      "correctIndex": 0,
+      "image": "no_air.png"
+    },
+    {
+      "q": "Who sang “Un-break My Heart”?",
+      "choices": [
+        "Toni Braxton",
+        "Mariah Carey",
+        "Celine Dion",
+        "Whitney Houston"
+      ],
+      "correctIndex": 0,
+      "image": "toni_braxton.png"
+    },
+    {
+      "q": "Which group released “I Want It That Way”?",
+      "choices": [
+        "Backstreet Boys",
+        "NSYNC",
+        "Westlife",
+        "Blue"
+      ],
+      "correctIndex": 0,
+      "image": "backstreet_boys.png"
+    },
+    {
+      "q": "Who sang “Hips Don’t Lie”?",
+      "choices": [
+        "Shakira",
+        "Jennifer Lopez",
+        "Beyoncé",
+        "Rihanna"
+      ],
+      "correctIndex": 0,
+      "image": "shakira.png"
+    },
+    {
+      "q": "Which artist released “Hey Ya!”?",
+      "choices": [
+        "OutKast",
+        "The Black Eyed Peas",
+        "Gnarls Barkley",
+        "N.E.R.D."
+      ],
+      "correctIndex": 0,
+      "image": "outkast.png"
+    },
+    {
+      "q": "Which group released “Mr. Brightside”?",
+      "choices": [
+        "The Killers",
+        "The Strokes",
+        "Franz Ferdinand",
+        "Snow Patrol"
+      ],
+      "correctIndex": 0,
+      "image": "the_killers.png"
+    },
+    {
+      "q": "Who sang “Boulevard of Broken Dreams”?",
+      "choices": [
+        "Green Day",
+        "Blink-182",
+        "Fall Out Boy",
+        "My Chemical Romance"
+      ],
+      "correctIndex": 0,
+      "image": "green_day.png"
+    },
+    {
+      "q": "Who sang “Crazy in Love”?",
+      "choices": [
+        "Beyoncé",
+        "Rihanna",
+        "Ciara",
+        "Alicia Keys"
+      ],
+      "correctIndex": 0,
+      "image": "beyonce.png"
+    },
+    {
+      "q": "Which artist released “Umbrella”?",
+      "choices": [
+        "Rihanna",
+        "Katy Perry",
+        "Lady Gaga",
+        "Adele"
+      ],
+      "correctIndex": 0,
+      "image": "rihanna.png"
+    },
+    {
+      "q": "Which band released “Viva la Vida”?",
+      "choices": [
+        "Coldplay",
+        "Kings of Leon",
+        "Muse",
+        "The Killers"
+      ],
+      "correctIndex": 0,
+      "image": "coldplay.png"
+    },
+    {
+      "q": "Who sang “Poker Face”?",
+      "choices": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Pink",
+        "Kesha"
+      ],
+      "correctIndex": 0,
+      "image": "lady_gaga.png"
+    },
+    {
+      "q": "Which artist released “Single Ladies (Put a Ring on It)”?",
+      "choices": [
+        "Beyoncé",
+        "Rihanna",
+        "Ciara",
+        "Keri Hilson"
+      ],
+      "correctIndex": 0,
+      "image": "beyonce.png"
+    },
+    {
+      "q": "Who sang “Irreplaceable”?",
+      "choices": [
+        "Beyoncé",
+        "Alicia Keys",
+        "Rihanna",
+        "Mary J. Blige"
+      ],
+      "correctIndex": 0,
+      "image": "beyonce.png"
+    },
+    {
+      "q": "Which artist released “Call Me Maybe”?",
+      "choices": [
+        "Carly Rae Jepsen",
+        "Selena Gomez",
+        "Demi Lovato",
+        "Ellie Goulding"
+      ],
+      "correctIndex": 0,
+      "image": "carly_rae_jepsen.png"
+    },
+    {
+      "q": "Who sang “We Found Love”?",
+      "choices": [
+        "Rihanna",
+        "Katy Perry",
+        "Lady Gaga",
+        "Beyoncé"
+      ],
+      "correctIndex": 0,
+      "image": "rihanna.png"
+    },
+    {
+      "q": "Which artist released “Thrift Shop”?",
+      "choices": [
+        "Macklemore & Ryan Lewis",
+        "Foster the People",
+        "Icona Pop",
+        "The Chainsmokers"
+      ],
+      "correctIndex": 0,
+      "image": "macklemore_ryan_lewis.png"
+    },
+    {
+      "q": "Who sang “Royals”?",
+      "choices": [
+        "Lorde",
+        "Adele",
+        "Billie Eilish",
+        "Halsey"
+      ],
+      "correctIndex": 0,
+      "image": "lorde.png"
+    },
+    {
+      "q": "Which artist released “Uptown Funk”?",
+      "choices": [
+        "Mark Ronson & Bruno Mars",
+        "Bruno Mars",
+        "Pharrell Williams",
+        "Daft Punk"
+      ],
+      "correctIndex": 0,
+      "image": "uptown_funk.png"
+    },
+    {
+      "q": "Who sang “Shake It Off”?",
+      "choices": [
+        "Taylor Swift",
+        "Selena Gomez",
+        "Katy Perry",
+        "Miley Cyrus"
+      ],
+      "correctIndex": 0,
+      "image": "taylor_swift.png"
+    },
+    {
+      "q": "Which artist released “Blank Space”?",
+      "choices": [
+        "Taylor Swift",
+        "Ariana Grande",
+        "Dua Lipa",
+        "Sia"
+      ],
+      "correctIndex": 0,
+      "image": "taylor_swift.png"
+    },
+    {
+      "q": "Who sang “Bad Guy”?",
+      "choices": [
+        "Billie Eilish",
+        "Halsey",
+        "Sia",
+        "Lorde"
+      ],
+      "correctIndex": 0,
+      "image": "billie_eilish.png"
+    },
+    {
+      "q": "Which artist released “Blinding Lights”?",
+      "choices": [
+        "The Weeknd",
+        "Drake",
+        "Post Malone",
+        "Shawn Mendes"
+      ],
+      "correctIndex": 0,
+      "image": "the_weeknd.png"
+    },
+    {
+      "q": "Who sang “Levitating”?",
+      "choices": [
+        "Dua Lipa",
+        "Ariana Grande",
+        "Sabrina Carpenter",
+        "Kylie Minogue"
+      ],
+      "correctIndex": 0,
+      "image": "dua_lipa.png"
+    },
+    {
+      "q": "Which group released “Dynamite” (2020)?",
+      "choices": [
+        "BTS",
+        "BLACKPINK",
+        "EXO",
+        "Stray Kids"
+      ],
+      "correctIndex": 0,
+      "image": "bts.png"
+    },
+    {
+      "q": "Who sang “drivers license”?",
+      "choices": [
+        "Olivia Rodrigo",
+        "Sabrina Carpenter",
+        "Tate McRae",
+        "Billie Eilish"
+      ],
+      "correctIndex": 0,
+      "image": "olivia_rodrigo.png"
+    },
+    {
+      "q": "Which artist released “Peaches”?",
+      "choices": [
+        "Justin Bieber",
+        "The Weeknd",
+        "Shawn Mendes",
+        "Zayn"
+      ],
+      "correctIndex": 0,
+      "image": "justin_bieber.png"
+    },
+    {
+      "q": "Who sang “Anti-Hero”?",
+      "choices": [
+        "Taylor Swift",
+        "Billie Eilish",
+        "Olivia Rodrigo",
+        "Dua Lipa"
+      ],
+      "correctIndex": 0,
+      "image": "taylor_swift.png"
+    },
+    {
+      "q": "Which artist released “Flowers”?",
+      "choices": [
+        "Miley Cyrus",
+        "Selena Gomez",
+        "Demi Lovato",
+        "Ariana Grande"
+      ],
+      "correctIndex": 0,
+      "image": "miley_cyrus.png"
+    },
+    {
+      "q": "Who sang “Say My Name”?",
+      "choices": [
+        "Destiny’s Child",
+        "TLC",
+        "En Vogue",
+        "Salt-N-Pepa"
+      ],
+      "correctIndex": 0,
+      "image": "destinys_child.png"
+    },
+    {
+      "q": "Which artist released “Rock Your Body”?",
+      "choices": [
+        "Justin Timberlake",
+        "Usher",
+        "Ne-Yo",
+        "Chris Brown"
+      ],
+      "correctIndex": 0,
+      "image": "justin_timberlake.png"
+    },
+    {
+      "q": "Who sang “Yeah!”?",
+      "choices": [
+        "Usher",
+        "Chris Brown",
+        "Ne-Yo",
+        "Nelly"
+      ],
+      "correctIndex": 0,
+      "image": "usher.png"
+    },
+    {
+      "q": "Which band released “Seven Nation Army”?",
+      "choices": [
+        "The White Stripes",
+        "The Black Keys",
+        "Kings of Leon",
+        "Arctic Monkeys"
+      ],
+      "correctIndex": 0,
+      "image": "the_white_stripes.png"
+    },
+    {
+      "q": "Who sang “Chandelier”?",
+      "choices": [
+        "Sia",
+        "Lorde",
+        "Ellie Goulding",
+        "Adele"
+      ],
+      "correctIndex": 0,
+      "image": "sia.png"
+    },
+    {
+      "q": "Which group released “Hey There Delilah”?",
+      "choices": [
+        "Plain White T’s",
+        "The Fray",
+        "Snow Patrol",
+        "The Script"
+      ],
+      "correctIndex": 0,
+      "image": "plain_white_ts.png"
+    },
+    {
+      "q": "Who sang “A Thousand Miles”?",
+      "choices": [
+        "Vanessa Carlton",
+        "Michelle Branch",
+        "Colbie Caillat",
+        "Sara Bareilles"
+      ],
+      "correctIndex": 0,
+      "image": "vanessa_carlton.png"
+    },
+    {
+      "q": "Which artist released “Somebody That I Used to Know”?",
+      "choices": [
+        "Gotye",
+        "Mika",
+        "James Blunt",
+        "Passenger"
+      ],
+      "correctIndex": 0,
+      "image": "gotye.png"
+    },
+    {
+      "q": "Who sang “Teenage Dream”?",
+      "choices": [
+        "Katy Perry",
+        "Kesha",
+        "Pink",
+        "Avril Lavigne"
+      ],
+      "correctIndex": 0,
+      "image": "katy_perry.png"
+    },
+    {
+      "q": "Which band released “Use Somebody”?",
+      "choices": [
+        "Kings of Leon",
+        "Coldplay",
+        "The Killers",
+        "Snow Patrol"
+      ],
+      "correctIndex": 0,
+      "image": "kings_of_leon.png"
+    },
+    {
+      "q": "Who sang “Stronger (What Doesn’t Kill You)”?",
+      "choices": [
+        "Kelly Clarkson",
+        "Pink",
+        "Kesha",
+        "Katy Perry"
+      ],
+      "correctIndex": 0,
+      "image": "kelly_clarkson.png"
+    },
+    {
+      "q": "Which artist released “Wrecking Ball”?",
+      "choices": [
+        "Miley Cyrus",
+        "Demi Lovato",
+        "Selena Gomez",
+        "Taylor Swift"
+      ],
+      "correctIndex": 0,
+      "image": "miley_cyrus.png"
+    },
+    {
+      "q": "Who sang “Since I Left You”?",
+      "choices": [
+        "The Avalanches",
+        "Daft Punk",
+        "Gorillaz",
+        "Moby"
+      ],
+      "correctIndex": 0,
+      "image": "the_avalanches.png"
+    },
+    {
+      "q": "Which group released “I Gotta Feeling”?",
+      "choices": [
+        "The Black Eyed Peas",
+        "LMFAO",
+        "Maroon 5",
+        "OneRepublic"
+      ],
+      "correctIndex": 0,
+      "image": "black_eyed_peas.png"
+    },
+    {
+      "q": "Who sang “We Are Young”?",
+      "choices": [
+        "fun.",
+        "OneRepublic",
+        "The Script",
+        "American Authors"
+      ],
+      "correctIndex": 0,
+      "image": "fun.png"
+    },
+    {
+      "q": "Which artist released “Halo”?",
+      "choices": [
+        "Beyoncé",
+        "Ariana Grande",
+        "Rihanna",
+        "Alicia Keys"
+      ],
+      "correctIndex": 0,
+      "image": "beyonce.png"
+    },
+    {
+      "q": "Which band released “Chasing Cars”?",
+      "choices": [
+        "Snow Patrol",
+        "The Fray",
+        "OneRepublic",
+        "Keane"
+      ],
+      "correctIndex": 0,
+      "image": "snow_patrol.png"
+    },
+    {
+      "q": "Who sang “Bad Romance”?",
+      "choices": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Rihanna",
+        "Beyoncé"
+      ],
+      "correctIndex": 0,
+      "image": "lady_gaga.png"
+    },
+    {
+      "q": "Which artist released “Shape of You”?",
+      "choices": [
+        "Ed Sheeran",
+        "Shawn Mendes",
+        "Charlie Puth",
+        "Justin Bieber"
+      ],
+      "correctIndex": 0,
+      "image": "ed_sheeran.png"
+    },
+    {
+      "q": "Who sang “Hollaback Girl”?",
+      "choices": [
+        "Gwen Stefani",
+        "Fergie",
+        "P!nk",
+        "Kesha"
+      ],
+      "correctIndex": 0,
+      "image": "gwen_stefani.png"
+    },
+    {
+      "q": "Which group released “Sugar, We’re Goin Down”?",
+      "choices": [
+        "Fall Out Boy",
+        "Panic! at the Disco",
+        "My Chemical Romance",
+        "Paramore"
+      ],
+      "correctIndex": 0,
+      "image": "fall_out_boy.png"
+    },
+    {
+      "q": "Who sang “I Kissed a Girl”?",
+      "choices": [
+        "Katy Perry",
+        "Kesha",
+        "Avril Lavigne",
+        "Demi Lovato"
+      ],
+      "correctIndex": 0,
+      "image": "katy_perry.png"
+    },
+    {
+      "q": "Which artist released “Someone Like You”?",
+      "choices": [
+        "Adele",
+        "Leona Lewis",
+        "Duffy",
+        "Paloma Faith"
+      ],
+      "correctIndex": 0,
+      "image": "adele.png"
+    },
+    {
+      "q": "Who sang “Tik Tok”?",
+      "choices": [
+        "Kesha",
+        "Katy Perry",
+        "Lady Gaga",
+        "Demi Lovato"
+      ],
+      "correctIndex": 0,
+      "image": "kesha.png"
+    },
+    {
+      "q": "Which band released “Clocks”?",
+      "choices": [
+        "Coldplay",
+        "Keane",
+        "Snow Patrol",
+        "U2"
+      ],
+      "correctIndex": 0,
+      "image": "coldplay.png"
+    },
+    {
+      "q": "Who sang “Only Girl (In the World)”?",
+      "choices": [
+        "Rihanna",
+        "Katy Perry",
+        "Beyoncé",
+        "Ciara"
+      ],
+      "correctIndex": 0,
+      "image": "rihanna.png"
+    },
+    {
+      "q": "Which artist released “Roar”?",
+      "choices": [
+        "Katy Perry",
+        "Kesha",
+        "Demi Lovato",
+        "Selena Gomez"
+      ],
+      "correctIndex": 0,
+      "image": "katy_perry.png"
+    },
+    {
+      "q": "Who sang “Sorry” (2015)?",
+      "choices": [
+        "Justin Bieber",
+        "Shawn Mendes",
+        "Zayn",
+        "The Weeknd"
+      ],
+      "correctIndex": 0,
+      "image": "justin_bieber.png"
+    },
+    {
+      "q": "Which artist released “Starboy”?",
+      "choices": [
+        "The Weeknd",
+        "Drake",
+        "Post Malone",
+        "Kendrick Lamar"
+      ],
+      "correctIndex": 0,
+      "image": "the_weeknd.png"
+    },
+    {
+      "q": "Who sang “New Rules”?",
+      "choices": [
+        "Dua Lipa",
+        "Ariana Grande",
+        "Sabrina Carpenter",
+        "Halsey"
+      ],
+      "correctIndex": 0,
+      "image": "dua_lipa.png"
+    },
+    {
+      "q": "Which band released “Radioactive”?",
+      "choices": [
+        "Imagine Dragons",
+        "Muse",
+        "OneRepublic",
+        "The 1975"
+      ],
+      "correctIndex": 0,
+      "image": "imagine_dragons.png"
+    },
+    {
+      "q": "Who sang “Break Free”?",
+      "choices": [
+        "Ariana Grande",
+        "Demi Lovato",
+        "Selena Gomez",
+        "Miley Cyrus"
+      ],
+      "correctIndex": 0,
+      "image": "ariana_grande.png"
+    },
+    {
+      "q": "Which artist released “Truth Hurts”?",
+      "choices": [
+        "Lizzo",
+        "Doja Cat",
+        "Nicki Minaj",
+        "Megan Thee Stallion"
+      ],
+      "correctIndex": 0,
+      "image": "lizzo.png"
+    },
+    {
+      "q": "Who sang “Havana”?",
+      "choices": [
+        "Camila Cabello",
+        "Selena Gomez",
+        "Dua Lipa",
+        "Sabrina Carpenter"
+      ],
+      "correctIndex": 0,
+      "image": "camila_cabello.png"
+    },
+    {
+      "q": "Which group released “Shut Up and Dance”?",
+      "choices": [
+        "WALK THE MOON",
+        "Maroon 5",
+        "The Script",
+        "OneRepublic"
+      ],
+      "correctIndex": 0,
+      "image": "walk_the_moon.png"
+    },
+    {
+      "q": "Who sang “Counting Stars”?",
+      "choices": [
+        "OneRepublic",
+        "Maroon 5",
+        "The Script",
+        "Coldplay"
+      ],
+      "correctIndex": 0,
+      "image": "onerepublic.png"
+    },
+    {
+      "q": "Which artist released “Titanium” (with Sia)?",
+      "choices": [
+        "David Guetta",
+        "Calvin Harris",
+        "Zedd",
+        "Avicii"
+      ],
+      "correctIndex": 0,
+      "image": "david_guetta.png"
+    },
+    {
+      "q": "Who sang “Wake Me Up”?",
+      "choices": [
+        "Avicii",
+        "Kygo",
+        "Calvin Harris",
+        "Zedd"
+      ],
+      "correctIndex": 0,
+      "image": "avicii.png"
+    },
+    {
+      "q": "Which band released “Pompeii”?",
+      "choices": [
+        "Bastille",
+        "The 1975",
+        "Arctic Monkeys",
+        "X Ambassadors"
+      ],
+      "correctIndex": 0,
+      "image": "bastille.png"
+    },
+    {
+      "q": "Who sang “Love Story”?",
+      "choices": [
+        "Taylor Swift",
+        "Carrie Underwood",
+        "Shania Twain",
+        "Kelsea Ballerini"
+      ],
+      "correctIndex": 0,
+      "image": "taylor_swift.png"
+    },
+    {
+      "q": "Which artist released “Señorita”?",
+      "choices": [
+        "Shawn Mendes & Camila Cabello",
+        "Justin Bieber & Selena Gomez",
+        "Zayn & Taylor Swift",
+        "Charlie Puth & Meghan Trainor"
+      ],
+      "correctIndex": 0,
+      "image": "senorita.png"
+    },
+    {
+      "q": "Who sang “Stay” (with Mikky Ekko)?",
+      "choices": [
+        "Rihanna",
+        "Ariana Grande",
+        "Sia",
+        "Halsey"
+      ],
+      "correctIndex": 0,
+      "image": "rihanna.png"
+    },
+    {
+      "q": "Which group released “Apologize” (remix)?",
+      "choices": [
+        "OneRepublic & Timbaland",
+        "The Script & will.i.am",
+        "Maroon 5 & Kanye West",
+        "The Fray & Timbaland"
+      ],
+      "correctIndex": 0,
+      "image": "apologize.png"
+    },
+    {
+      "q": "Who sang “Holiday” (2004)?",
+      "choices": [
+        "Green Day",
+        "Blink-182",
+        "Sum 41",
+        "Good Charlotte"
+      ],
+      "correctIndex": 0,
+      "image": "green_day.png"
+    },
+    {
+      "q": "Which artist released “Finesse (Remix)” with Cardi B?",
+      "choices": [
+        "Bruno Mars",
+        "The Weeknd",
+        "Drake",
+        "Usher"
+      ],
+      "correctIndex": 0,
+      "image": "bruno_mars.png"
+    },
+    {
+      "q": "Who sang “Halo”?",
+      "choices": [
+        "Beyoncé",
+        "Alicia Keys",
+        "Rihanna",
+        "Ciara"
+      ],
+      "correctIndex": 0,
+      "image": "beyonce.png"
+    },
+    {
+      "q": "Which band released “Fix You”?",
+      "choices": [
+        "Coldplay",
+        "Keane",
+        "Snow Patrol",
+        "Radiohead"
+      ],
+      "correctIndex": 0,
+      "image": "coldplay.png"
+    },
+    {
+      "q": "Who sang “Shape of You”?",
+      "choices": [
+        "Ed Sheeran",
+        "Justin Bieber",
+        "Charlie Puth",
+        "Shawn Mendes"
+      ],
+      "correctIndex": 0,
+      "image": "ed_sheeran.png"
+    },
+    {
+      "q": "Which artist released “Bad Habits”?",
+      "choices": [
+        "Ed Sheeran",
+        "The Weeknd",
+        "Post Malone",
+        "Charlie Puth"
+      ],
+      "correctIndex": 0,
+      "image": "ed_sheeran.png"
+    },
+    {
+      "q": "Who sang “Happier Than Ever”?",
+      "choices": [
+        "Billie Eilish",
+        "Olivia Rodrigo",
+        "Halsey",
+        "Lorde"
+      ],
+      "correctIndex": 0,
+      "image": "billie_eilish.png"
+    },
+    {
+      "q": "Which group released “Maps”?",
+      "choices": [
+        "Maroon 5",
+        "OneRepublic",
+        "The Script",
+        "Coldplay"
+      ],
+      "correctIndex": 0,
+      "image": "maroon_5.png"
+    },
+    {
+      "q": "Which artist released “Grenade”?",
+      "choices": [
+        "Bruno Mars",
+        "Adam Levine",
+        "Charlie Puth",
+        "Ne-Yo"
+      ],
+      "correctIndex": 0,
+      "image": "bruno_mars.png"
     }
   ]
-
 }
-
-
-  
-
-
-
-    

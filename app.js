@@ -12,8 +12,8 @@
 
   // ---------- CONFIG ----------
   const CONFIG = {
-    qSeconds: 5,
-    aSeconds: 5,
+    qSeconds: 20,
+    aSeconds: 10,
     loop: true,
     vanta: { color: 0xec4899, shininess: 50, waveHeight: 18, waveSpeed: 0.9, zoom: 0.85 }
   };
